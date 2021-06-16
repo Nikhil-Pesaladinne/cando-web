@@ -1,0 +1,99 @@
+<head>
+    <style>
+        body {font-family: Arial, Helvetica, sans-serif;}
+        
+        /* The Modal (background) */
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1; /* Sit on top */
+          padding-top: 100px; /* Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+        
+        /* Modal Content */
+        .modal-content {
+          background-color: #fefefe;
+          margin: auto;
+          padding: 20px;
+          border: 1px solid #888;
+          width: 80%;
+        }
+        
+        /* The Close Button */
+        .close {
+          color: #aaaaaa;
+          float: right;
+          font-size: 28px;
+          font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+          color: #000;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        </style>
+</head>
+
+<body>
+
+    {% if compounds_drugs_selection %}
+        <div id="Compounds_Drugs_page">
+            <h1>Canpredict compounds </h1>
+            <div>
+                <form method=post id="canpredict_compounds" action="/canpredict_compounds">
+                    <label for="indication">Indication id:</label>
+                    <input type="text" id="indication" name="indication"><br><br>
+                    <button id="Predict">Predict</button>
+                </form>
+            </div>
+            <button id="advanced_search" onclick="showModal()">Advanced search</button>
+            <div id="canpredict_compounds_advanced_modal" class="modal">
+                <div class="modal-content">
+                    <form method=post id="canpredict_compounds_advanced" action="/canpredict_compounds">
+                        <h2> Advanced Search</h2>
+                        <span class="close" onclick="closeModal()">&times;</span>
+                        <label for="indication">Indication id:</label>
+                        <input type="text" id="indication" name="indication"><br><br>
+                        <label for="n">n:</label>
+                        <input type="text" id="n" name="n"><br><br>
+                        <label for="topX">topX:</label>
+                        <input type="text" id="topX" name="topX"><br><br>
+                        <label for="consensus"> Consensus</label>
+                        <input type="text" id="consensus" name="consensus"><br><br>
+                        <label for="keep_associated"> Keep associated</label>
+                        <input type="text" id="keep_associated" name="keep_associated"><br>
+                        <label for="cmpd_set"> Compound set: </label>
+                        <input type="text" id="cmpd_set" name="cmpd_set"><br>
+                        <button id="advanced_predict">Predict</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+
+    {% if indications_selection %}
+        <div>
+            <h1> Indications Page</h1>
+        </div>
+    {% endif %}
+    <script>
+        var modal = document.getElementById("canpredict_compounds_advanced_modal");
+        var btn = document.getElementById("advanced_search");
+        var span = document.getElementsByClassName("close")[0];
+        function showModal(){
+            modal.style.display = "block";
+        }
+        function closeModal(){
+            modal.style.display = "none";
+        }
+    </script>
+</body>

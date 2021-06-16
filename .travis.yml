@@ -1,0 +1,28 @@
+language: python
+python:
+  # We don't actually use the Travis Python, but this keeps it organized.
+  #- "2.7"
+  #- "3.6"
+  - "3.7"
+install:
+  - sudo apt-get update
+  - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
+  - bash miniconda.sh -b -p $HOME/miniconda
+  - export PATH="$HOME/miniconda/bin:$PATH"
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda update -q conda
+  - conda init bash
+  - conda install -q -c conda-forge rdkit openbabel numpy pandas scikit-learn matplotlib requests coverage progressbar2
+  - pip install codecov
+  - codecov
+  - codecov --token="e3f91a6d-dfcc-46dc-b73e-6546e1a3ae99"
+
+script:
+  # Your test script goes here
+  - python run_test.py
+  - coverage run run_test.py
+
+# Push the results back to codecov
+after_success:
+  - codecov
