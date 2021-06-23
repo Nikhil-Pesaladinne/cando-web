@@ -8,6 +8,7 @@ import progressbar
 import numpy as np
 import pandas as pd
 import multiprocessing as mp
+import inspect
 from openbabel import pybel
 import difflib
 import matplotlib.pyplot as plt
@@ -3803,6 +3804,25 @@ class CANDO(object):
         for c in self.compounds:
             c.similar = list(map(norm, c.similar))
         return
+
+    def cando_methods():
+        return ['canbenchmark', 'canbenchmark_associated', 'canbenchmark_bottom', 'canbenchmark_cluster',
+        'canbenchmark_ndcg', 'canbenchmark_cluster', 'add_cmpds', 'cosine_dist', 'tanimoto_sparse',
+        'tanimoto_dense']
+
+    def compounds_drugs_methods():
+        return ['search_compound', 'get_compound', 'get_compound_pair', 'virtual_screen', 'similar_compounds', 'generate_similar_sigs',
+        'generate_similar_sigs_cp', 'generate_some_similar_sigs', 'canpredict_compounds', 'canpredict_denovo', 'canpredict_ddi_cmpds',
+        'fusion', 'sigs']
+
+    def indications_methods():
+        return ['canpredict_indications']
+
+    def adr_methods():
+        return ['canpredict_adr', 'canpredict_ddi_adrs']
+
+    def inspect_method(self, method_name):
+        return inspect.getargspec(getattr(CANDO, method_name)).args[1:]
 
     def __str__(self):
         """!
