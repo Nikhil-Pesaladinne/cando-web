@@ -1,0 +1,592 @@
+CANDO_ID	INDICATION_NAME	MESH_ID	INDICATION_ID
+9	Abdominal Pain	MESH:D015746	8
+54	Abnormalities, Drug-Induced	MESH:D000014	11
+39	Abnormalities, Severe Teratoid	MESH:D009008	13
+6	Abscess	MESH:D000038	17
+48	Acidosis	MESH:D000138	20
+58	Acne Vulgaris	MESH:D000152	25
+9	Acromegaly	MESH:D000172	33
+0	Acute Coronary Syndrome	MESH:D054058	35
+61	Acute Kidney Injury	MESH:D058186	37
+7	Acute Kidney Injury	MESH:D058186	37
+1	Adenocarcinoma	MESH:D000230	42
+9	Adenocarcinoma	MESH:D000230	42
+9	Adenoma	MESH:D000236	45
+54	Adenoma	MESH:D000236	45
+54	Ageusia	MESH:D000370	59
+9	Albuminuria	MESH:D000419	68
+32	Albuminuria	MESH:D000419	68
+54	Alcohol Withdrawal Delirium	MESH:D000430	69
+48	Alcohol Withdrawal Delirium	MESH:D000430	69
+60	Alcoholism	MESH:D000437	75
+32	Alopecia	MESH:D000505	79
+2	Alzheimer Disease	MESH:D000544	85
+54	Alzheimer Disease	MESH:D000544	85
+40	Amnesia	MESH:D000647	90
+19	Amnesia	MESH:D000647	90
+58	Anemia	MESH:D000740	101
+32	Anemia	MESH:D000740	101
+54	Anemia, Aplastic	MESH:D000741	102
+7	Anemia, Aplastic	MESH:D000741	102
+54	Anemia, Hemolytic	MESH:D000743	104
+7	Anemia, Hemolytic, Autoimmune	MESH:D000744	105
+54	Anemia, Hemolytic, Autoimmune	MESH:D000744	105
+58	Anemia, Iron-Deficiency	MESH:D018798	108
+54	Anemia, Macrocytic	MESH:D000748	109
+54	Anemia, Megaloblastic	MESH:D000749	110
+63	Anemia, Sickle Cell	MESH:D000755	113
+54	Anemia, Sickle Cell	MESH:D000755	113
+11	Anemia, Sideroblastic	MESH:D000756	114
+60	Anemia, Sideroblastic	MESH:D000756	114
+54	Anemia, Sideroblastic	MESH:D000756	114
+54	Anencephaly	MESH:D000757	115
+13	Anorexia	MESH:D000855	128
+54	Arteriosclerosis	MESH:D001161	153
+7	Arthritis, Experimental	MESH:D001169	158
+54	Arthritis, Psoriatic	MESH:D015535	162
+7	Arthritis, Rheumatoid	MESH:D001172	164
+63	Arthritis, Rheumatoid	MESH:D001172	164
+61	Asthenozoospermia	MESH:D053627	175
+54	Atrophy	MESH:D001284	189
+7	Autoimmune Diseases	MESH:D001327	194
+6	Bacteremia	MESH:D016470	201
+18	Basal ganglia disease, biotin-responsive	MESH:C537658	210
+7	Behcet Syndrome	MESH:D001528	211
+48	Beriberi	MESH:D001602	212
+54	Bipolar Disorder	MESH:D001714	219
+48	Bipolar Disorder	MESH:D001714	219
+54	Birth Weight	MESH:D001724	221
+19	Birth Weight	MESH:D001724	221
+60	Blepharoptosis	MESH:D001763	225
+4	Blood Coagulation Disorders	MESH:D001778	229
+32	Bone Diseases, Endocrine	MESH:D001849	234
+42	Bone Diseases, Metabolic	MESH:D001851	236
+54	Brain Damage, Chronic	MESH:D001925	248
+48	Brain Diseases	MESH:D001927	249
+54	Brain Diseases	MESH:D001927	249
+61	Brain Diseases	MESH:D001927	249
+61	Brain Infarction	MESH:D020520	253
+61	Brain Injuries	MESH:D001930	254
+28	Brain Injuries	MESH:D001930	254
+54	Breast Neoplasms	MESH:D001943	260
+36	Breast Neoplasms	MESH:D001943	260
+2	Breast Neoplasms	MESH:D001943	260
+32	Breast Neoplasms	MESH:D001943	260
+7	Breast Neoplasms	MESH:D001943	260
+58	Bronchopulmonary Dysplasia	MESH:D001997	271
+32	Calcium Metabolism Disorders	MESH:D002128	290
+9	Carcinoid Tumor	MESH:D002276	306
+32	Carcinoma, Ehrlich Tumor	MESH:D002286	312
+30	Carcinoma, Hepatocellular	MESH:D006528	315
+9	Carcinoma, Hepatocellular	MESH:D006528	315
+19	Carcinoma, Hepatocellular	MESH:D006528	315
+9	Carcinoma, Islet Cell	MESH:D018273	316
+9	Carcinoma, Lewis Lung	MESH:D018827	318
+61	Carcinoma, Lewis Lung	MESH:D018827	318
+54	Carcinoma, Renal Cell	MESH:D002292	325
+39	Carcinoma, Squamous Cell	MESH:D002294	327
+32	Carcinoma, Squamous Cell	MESH:D002294	327
+7	Cardiomyopathies	MESH:D009202	333
+58	Cardiomyopathies	MESH:D009202	333
+54	Cardiomyopathies	MESH:D009202	333
+48	Cardiomyopathies	MESH:D009202	333
+39	Cardiomyopathies	MESH:D009202	333
+54	Cardiovascular Abnormalities	MESH:D018376	339
+54	Cardiovascular Diseases	MESH:D002318	340
+0	Carotid Artery Injuries	MESH:D020212	343
+61	Cataract	MESH:D002386	351
+48	Cataract	MESH:D002386	351
+54	Cataract	MESH:D002386	351
+58	Cataract	MESH:D002386	351
+36	Cataract	MESH:D002386	351
+61	Cell Transformation, Neoplastic	MESH:D002471	357
+54	Cerebellar Ataxia	MESH:D002524	365
+48	Cerebellar Ataxia	MESH:D002524	365
+28	Chemical and Drug Induced Liver Injury	MESH:D056486	379
+30	Chemical and Drug Induced Liver Injury	MESH:D056486	379
+39	Chemical and Drug Induced Liver Injury	MESH:D056486	379
+15	Chemical and Drug Induced Liver Injury	MESH:D056486	379
+61	Chemical and Drug Induced Liver Injury	MESH:D056486	379
+33	Chemical and Drug Induced Liver Injury	MESH:D056486	379
+60	Child Behavior Disorders	MESH:D002653	383
+36	Child Nutrition Disorders	MESH:D015362	385
+48	Child Nutrition Disorders	MESH:D015362	385
+60	Child Nutrition Disorders	MESH:D015362	385
+58	Child Nutrition Disorders	MESH:D015362	385
+9	Cholelithiasis	MESH:D002769	393
+7	Cholestasis	MESH:D002779	394
+15	Cholestasis	MESH:D002779	394
+39	Chromosome Breakage	MESH:D019457	410
+32	Chronic Kidney Disease-Mineral and Bone Disorder	MESH:D012080	411
+42	Chronic Kidney Disease-Mineral and Bone Disorder	MESH:D012080	411
+9	Chylous Ascites	MESH:D002915	416
+48	Cleft Lip	MESH:D002971	419
+60	Cleft Lip	MESH:D002971	419
+54	Cleft Lip	MESH:D002971	419
+48	Cleft Palate	MESH:D002972	420
+60	Cleft Palate	MESH:D002972	420
+9	Cluster Headache	MESH:D003027	422
+30	Cocaine-Related Disorders	MESH:D019970	423
+54	Cognition Disorders	MESH:D003072	426
+19	Cognition Disorders	MESH:D003072	426
+15	Cognition Disorders	MESH:D003072	426
+61	Cognition Disorders	MESH:D003072	426
+61	Colitis, Ulcerative	MESH:D003093	430
+58	Colonic Neoplasms	MESH:D003110	435
+54	Color Vision Defects	MESH:D003117	436
+32	Colorectal Neoplasms	MESH:D015179	437
+11	Colorectal Neoplasms	MESH:D015179	437
+54	Colorectal Neoplasms	MESH:D015179	437
+36	Colorectal Neoplasms	MESH:D015179	437
+60	Coma	MESH:D003128	439
+35	Coma	MESH:D003128	439
+60	Confusion	MESH:D003221	447
+54	Congenital Abnormalities	MESH:D000013	448
+9	Congenital Hyperinsulinism	MESH:D044903	449
+58	Corneal Diseases	MESH:D003316	458
+61	Coronary Disease	MESH:D003327	465
+0	Coronary Thrombosis	MESH:D003328	469
+6	Corynebacterium Infections	MESH:D003354	472
+60	Cranial Nerve Diseases	MESH:D003389	475
+9	Cushing Syndrome	MESH:D003480	484
+39	Cystic Fibrosis	MESH:D003550	486
+4	Cystic Fibrosis	MESH:D003550	486
+39	Cystitis	MESH:D003556	490
+15	Death, Sudden	MESH:D003645	499
+60	Deglutition Disorders	MESH:D003680	503
+15	Dementia	MESH:D003704	506
+30	Demyelinating Diseases	MESH:D003711	509
+15	Demyelinating Diseases	MESH:D003711	509
+63	Dental Caries	MESH:D003731	512
+15	Depressive Disorder	MESH:D003866	515
+28	Depressive Disorder	MESH:D003866	515
+44	Depressive Disorder	MESH:D003866	515
+39	Dermatitis, Contact	MESH:D003877	521
+0	Diabetes Complications	MESH:D048909	532
+4	Diabetes Insipidus	MESH:D003919	533
+4	Diabetes Insipidus, Nephrogenic	MESH:D018500	534
+4	Diabetes Insipidus, Neurogenic	MESH:D020790	535
+32	Diabetes Mellitus, Type 1	MESH:D003922	539
+54	Diabetes Mellitus, Type 2	MESH:D003924	540
+61	Diabetic Angiopathies	MESH:D003925	542
+61	Diabetic Cardiomyopathies	MESH:D058065	543
+61	Diabetic Nephropathies	MESH:D003928	546
+61	Diabetic Neuropathies	MESH:D003929	547
+61	Diarrhea	MESH:D003967	549
+13	Diarrhea	MESH:D003967	549
+7	Diarrhea	MESH:D003967	549
+9	Diarrhea	MESH:D003967	549
+1	Disease Models, Animal	MESH:D004195	557
+28	Disease Models, Animal	MESH:D004195	557
+54	Dizziness	MESH:D004244	566
+35	Drug Overdose	MESH:D062787	571
+39	Drug-Related Side Effects and Adverse Reactions	MESH:D064420	572
+47	Drug-Related Side Effects and Adverse Reactions	MESH:D064420	572
+61	Drug-Related Side Effects and Adverse Reactions	MESH:D064420	572
+28	Drug-Related Side Effects and Adverse Reactions	MESH:D064420	572
+60	Dysarthria	MESH:D004401	578
+44	Dyskinesia, Drug-Induced	MESH:D004409	584
+39	Dyskinesia, Drug-Induced	MESH:D004409	584
+7	Dyskinesia, Drug-Induced	MESH:D004409	584
+60	Dystonia	MESH:D004421	593
+61	Edema	MESH:D004487	604
+39	Edema	MESH:D004487	604
+0	Embolism and Thrombosis	MESH:D016769	608
+54	Embryo Loss	MESH:D020964	610
+32	Encephalomyelitis, Autoimmune, Experimental	MESH:D004681	617
+6	Endocarditis, Bacterial	MESH:D004697	619
+54	Endometrial Neoplasms	MESH:D016889	624
+1	Endometriosis	MESH:D004715	625
+2	Endometriosis	MESH:D004715	625
+9	Endotoxin Hyporesponsiveness	MESH:C566417	630
+4	Enuresis	MESH:D004775	639
+60	Erythema	MESH:D004890	663
+9	Esophageal and Gastric Varices	MESH:D004932	674
+7	Exanthema	MESH:D005076	679
+60	Extravasation of Diagnostic and Therapeutic Materials	MESH:D005119	683
+7	Eye Diseases	MESH:D005128	685
+60	Facial Nerve Diseases	MESH:D005155	695
+49	Familial Hypophosphatemic Rickets	MESH:D053098	702
+32	Familial Hypophosphatemic Rickets	MESH:D053098	702
+19	Fatty Liver	MESH:D005234	713
+19	Fatty Liver, Alcoholic	MESH:D005235	714
+54	Fatty Liver, Alcoholic	MESH:D005235	714
+30	Fatty Liver, Alcoholic	MESH:D005235	714
+54	Fetal Growth Retardation	MESH:D005317	726
+30	Fetal Resorption	MESH:D005327	728
+63	Fever	MESH:D005334	729
+9	Fibrosis	MESH:D005355	737
+32	Fibrosis	MESH:D005355	737
+54	Folic Acid Deficiency	MESH:D005494	750
+60	Foot Dermatoses	MESH:D005533	753
+15	Gallbladder Diseases	MESH:D005705	766
+9	Gallstones	MESH:D042882	768
+9	Gastritis	MESH:D005756	771
+32	Glioma	MESH:D005910	795
+30	Glioma	MESH:D005910	795
+32	Glomerulonephritis	MESH:D005921	798
+7	Glomerulosclerosis, Focal Segmental	MESH:D005923	802
+7	Graft vs Host Disease	MESH:D006086	814
+6	Gram-Positive Bacterial Infections	MESH:D016908	816
+7	Granulomatosis with Polyangiitis	MESH:D014890	822
+9	Growth Hormone-Secreting Pituitary Adenoma	MESH:D049912	828
+58	HIV Infections	MESH:D015658	830
+60	Hand Dermatoses	MESH:D006229	838
+32	Head and Neck Neoplasms	MESH:D006258	841
+9	Headache	MESH:D006261	842
+36	Headache	MESH:D006261	842
+54	Headache	MESH:D006261	842
+30	Hearing Loss	MESH:D034381	847
+7	Hearing Loss, Sensorineural	MESH:D006319	851
+58	Heart Defects, Congenital	MESH:D006330	856
+54	Heart Defects, Congenital	MESH:D006330	856
+23	Heart Diseases	MESH:D006331	857
+39	Heart Diseases	MESH:D006331	857
+48	Heart Failure	MESH:D006333	858
+54	Hematologic Diseases	MESH:D006402	877
+7	Hematologic Diseases	MESH:D006402	877
+39	Hematuria	MESH:D006417	881
+7	Hemoglobinuria, Paroxysmal	MESH:D006457	885
+47	Hemolysis	MESH:D006461	886
+39	Hemolysis	MESH:D006461	886
+0	Hemorrhage	MESH:D006470	889
+39	Hemorrhage	MESH:D006470	889
+4	Hemorrhagic Disorders	MESH:D006474	890
+9	Hemorrhagic Disorders	MESH:D006474	890
+48	Hepatic Encephalopathy	MESH:D006501	898
+30	Hepatitis	MESH:D006505	901
+7	Hepatitis B, Chronic	MESH:D019694	904
+7	Hepatitis C	MESH:D006526	905
+49	Hepatitis C	MESH:D006526	905
+60	Hepatolenticular Degeneration	MESH:D006527	914
+15	Hepatomegaly	MESH:D006529	915
+58	Hernia, Diaphragmatic	MESH:D006548	919
+44	Huntington Disease	MESH:D006816	945
+61	Hyperammonemia	MESH:D022124	955
+32	Hypercalcemia	MESH:D006934	959
+9	Hypercalcemia	MESH:D006934	959
+18	Hyperglycemia	MESH:D006943	968
+54	Hyperhomocysteinemia	MESH:D020138	971
+61	Hyperinsulinism	MESH:D006946	972
+15	Hyperkinesis	MESH:D006948	974
+54	Hyperkinesis	MESH:D006948	974
+23	Hyperkinesis	MESH:D006948	974
+60	Hyperkinesis	MESH:D006948	974
+36	Hyperlipoproteinemias	MESH:D006951	981
+32	Hyperparathyroidism	MESH:D006961	985
+32	Hyperparathyroidism, Secondary	MESH:D006962	987
+32	Hyperplasia	MESH:D006965	990
+39	Hypertension	MESH:D006973	995
+61	Hypertension	MESH:D006973	995
+54	Hypertension	MESH:D006973	995
+9	Hypertension, Portal	MESH:D006975	997
+36	Hypertriglyceridemia	MESH:D015228	1004
+7	Hypertrophy, Left Ventricular	MESH:D017379	1006
+32	Hypocalcemia	MESH:D006996	1014
+60	Hypoglossal Nerve Diseases	MESH:D020437	1018
+9	Hypoglycemia	MESH:D007003	1019
+9	Hypogonadism	MESH:D007006	1021
+49	Hypoparathyroidism	MESH:D007011	1030
+32	Hypoparathyroidism	MESH:D007011	1030
+54	Hypospadias	MESH:D007021	1036
+9	Hypotension, Orthostatic	MESH:D007024	1038
+61	Hypothermia	MESH:D007035	1040
+35	Hypothermia	MESH:D007035	1040
+15	Hypothyroidism	MESH:D007037	1041
+58	Ichthyosis	MESH:D007057	1048
+7	Immune System Diseases	MESH:D007154	1054
+58	Infant, Newborn, Diseases	MESH:D007232	1062
+61	Infertility, Male	MESH:D007248	1069
+30	Inflammation	MESH:D007249	1070
+0	Inflammation	MESH:D007249	1070
+32	Inflammation	MESH:D007249	1070
+28	Inflammation	MESH:D007249	1070
+61	Inflammation	MESH:D007249	1070
+1	Inflammation	MESH:D007249	1070
+36	Inflammation	MESH:D007249	1070
+7	Inflammation	MESH:D007249	1070
+19	Inflammation	MESH:D007249	1070
+18	Insulin Resistance	MESH:D007333	1076
+61	Insulin Resistance	MESH:D007333	1076
+7	Intestinal Diseases	MESH:D007410	1082
+61	Intestinal Diseases	MESH:D007410	1082
+58	Intestinal Neoplasms	MESH:D007414	1084
+28	Intracranial Arteriosclerosis	MESH:D002537	1088
+9	Ischemia	MESH:D007511	1103
+0	Ischemia	MESH:D007511	1103
+15	Jaundice	MESH:D007565	1105
+49	Juvenile osteoporosis	MESH:C537700	1112
+7	Keratoconjunctivitis Sicca	MESH:D007638	1117
+30	Kidney Calculi	MESH:D007669	1123
+63	Kidney Diseases	MESH:D007674	1125
+11	Kidney Diseases	MESH:D007674	1125
+13	Kidney Diseases	MESH:D007674	1125
+6	Kidney Diseases	MESH:D007674	1125
+61	Kidney Diseases	MESH:D007674	1125
+39	Kidney Diseases	MESH:D007674	1125
+7	Kidney Diseases	MESH:D007674	1125
+32	Kidney Failure, Chronic	MESH:D007676	1127
+7	Kidney Tubular Necrosis, Acute	MESH:D007683	1130
+47	Kidney Tubular Necrosis, Acute	MESH:D007683	1130
+60	Latent Tuberculosis	MESH:D055985	1146
+48	Lead Poisoning	MESH:D007855	1148
+19	Learning Disabilities	MESH:D007859	1150
+1	Leiomyoma	MESH:D007889	1152
+2	Leiomyoma	MESH:D007889	1152
+32	Leukemia	MESH:D007938	1165
+33	Leukemia L1210	MESH:D007939	1166
+32	Leukemia, Lymphoid	MESH:D007945	1175
+32	Leukemia, Myeloid, Acute	MESH:D015470	1179
+32	Leukemia, Promyelocytic, Acute	MESH:D015473	1187
+13	Leukopenia	MESH:D007970	1198
+61	Liver Cirrhosis	MESH:D008103	1216
+9	Liver Cirrhosis	MESH:D008103	1216
+58	Liver Cirrhosis	MESH:D008103	1216
+15	Liver Cirrhosis	MESH:D008103	1216
+30	Liver Cirrhosis, Experimental	MESH:D008106	1219
+9	Liver Cirrhosis, Experimental	MESH:D008106	1219
+15	Liver Cirrhosis, Experimental	MESH:D008106	1219
+47	Liver Cirrhosis, Experimental	MESH:D008106	1219
+15	Liver Diseases	MESH:D008107	1220
+47	Liver Failure, Acute	MESH:D017114	1224
+15	Liver Neoplasms	MESH:D008113	1225
+39	Liver Neoplasms	MESH:D008113	1225
+61	Liver Neoplasms, Experimental	MESH:D008114	1226
+58	Liver Neoplasms, Experimental	MESH:D008114	1226
+15	Liver Neoplasms, Experimental	MESH:D008114	1226
+61	Long QT Syndrome	MESH:D008133	1228
+58	Lung Diseases	MESH:D008171	1231
+32	Lung Neoplasms	MESH:D008175	1236
+7	Lymphadenitis	MESH:D008199	1245
+32	Lymphoma	MESH:D008223	1251
+54	Malaria, Falciparum	MESH:D016778	1275
+9	Malignant Carcinoid Syndrome	MESH:D008303	1280
+54	Maxillofacial Abnormalities	MESH:D019767	1293
+61	Melanoma	MESH:D008545	1298
+54	Melanoma	MESH:D008545	1298
+9	Melanoma	MESH:D008545	1298
+47	Melanoma, Experimental	MESH:D008546	1301
+28	Memory Disorders	MESH:D008569	1304
+19	Memory Disorders	MESH:D008569	1304
+6	Meningitis, Bacterial	MESH:D016920	1311
+54	Meningomyelocele	MESH:D008591	1321
+4	Menorrhagia	MESH:D008595	1323
+39	Mercury Poisoning	MESH:D008630	1326
+39	Mercury Poisoning, Nervous System	MESH:D020262	1327
+30	Metabolism, Inborn Errors	MESH:D008661	1333
+15	Metabolism, Inborn Errors	MESH:D008661	1333
+7	Metal Metabolism, Inborn Errors	MESH:D008664	1334
+39	Methemoglobinemia	MESH:D008708	1336
+1	Metrorrhagia	MESH:D008796	1338
+36	Migraine Disorders	MESH:D008881	1342
+61	Mitochondrial Diseases	MESH:D028361	1347
+16	Mitochondrial Diseases	MESH:D028361	1347
+48	Mitochondrial Myopathies	MESH:D017240	1349
+39	Movement Disorders	MESH:D009069	1369
+32	Movement Disorders	MESH:D009069	1369
+7	Movement Disorders	MESH:D009069	1369
+28	Movement Disorders	MESH:D009069	1369
+15	Mucocele	MESH:D009078	1372
+54	Mucositis	MESH:D052016	1376
+32	Multiple Myeloma	MESH:D009101	1379
+5	Multiple Myeloma	MESH:D009101	1379
+44	Muscular Atrophy	MESH:D009133	1393
+49	Muscular Diseases	MESH:D009135	1395
+54	Muscular Diseases	MESH:D009135	1395
+44	Muscular Diseases	MESH:D009135	1395
+42	Muscular Diseases	MESH:D009135	1395
+7	Myasthenia Gravis	MESH:D009157	1404
+0	Myocardial Ischemia	MESH:D017202	1418
+1	Myoma	MESH:D009214	1426
+54	Nasopharyngeal Neoplasms	MESH:D009303	1441
+60	Necrosis	MESH:D009336	1444
+16	Necrosis	MESH:D009336	1444
+15	Necrosis	MESH:D009336	1444
+33	Necrosis	MESH:D009336	1444
+7	Necrosis	MESH:D009336	1444
+1	Neoplasm Invasiveness	MESH:D009361	1450
+9	Neoplasm Metastasis	MESH:D009362	1451
+58	Neoplasms	MESH:D009369	1453
+36	Neoplasms	MESH:D009369	1453
+32	Neoplasms, Experimental	MESH:D009374	1455
+54	Neoplasms, Experimental	MESH:D009374	1455
+58	Neoplasms, Squamous Cell	MESH:D018307	1460
+9	Neovascularization, Pathologic	MESH:D009389	1463
+7	Nephritis, Interstitial	MESH:D009395	1465
+7	Nephrosis, Lipoid	MESH:D009402	1470
+7	Nephrosis, congenital	MESH:C535761	1471
+7	Nephrotic Syndrome	MESH:D009404	1472
+7	Nerve Degeneration	MESH:D009410	1475
+61	Nerve Degeneration	MESH:D009410	1475
+39	Nervous System Diseases	MESH:D009422	1477
+28	Nervous System Diseases	MESH:D009422	1477
+60	Nervous System Diseases	MESH:D009422	1477
+54	Neural Tube Defects	MESH:D009436	1481
+36	Neurobehavioral Manifestations	MESH:D019954	1488
+61	Neurodegenerative Diseases	MESH:D019636	1492
+9	Neuroendocrine Tumors	MESH:D018358	1497
+47	Neurotoxicity Syndromes	MESH:D020258	1508
+39	Neurotoxicity Syndromes	MESH:D020258	1508
+54	Neutropenia	MESH:D009503	1509
+4	Nocturia	MESH:D053158	1516
+4	Nocturnal Enuresis	MESH:D053206	1517
+30	Non-alcoholic Fatty Liver Disease	MESH:D065626	1519
+61	Non-alcoholic Fatty Liver Disease	MESH:D065626	1519
+19	Non-alcoholic Fatty Liver Disease	MESH:D065626	1519
+33	Oligospermia	MESH:D009845	1536
+19	Oligospermia	MESH:D009845	1536
+61	Oligospermia	MESH:D009845	1536
+60	Ophthalmoplegia	MESH:D009886	1540
+54	Optic Nerve Diseases	MESH:D009901	1544
+28	Organophosphate Poisoning	MESH:D062025	1551
+63	Osteoarthritis	MESH:D010003	1556
+54	Osteomalacia	MESH:D010018	1562
+42	Osteomalacia	MESH:D010018	1562
+49	Osteomalacia	MESH:D010018	1562
+32	Osteomalacia	MESH:D010018	1562
+6	Osteomyelitis	MESH:D010019	1563
+49	Osteonecrosis	MESH:D010020	1564
+32	Osteoporosis, Postmenopausal	MESH:D015663	1566
+7	Osteosarcoma	MESH:D012516	1569
+7	Ovarian Neoplasms	MESH:D010051	1579
+39	Ovarian Neoplasms	MESH:D010051	1579
+9	Pain	MESH:D010146	1585
+48	Pain	MESH:D010146	1585
+63	Pain	MESH:D010146	1585
+60	Pain	MESH:D010146	1585
+32	Pancreatic Neoplasms	MESH:D010190	1590
+9	Pancreatic Neoplasms	MESH:D010190	1590
+9	Pancreatic Pseudocyst	MESH:D010192	1591
+9	Pancreatic islet cell tumors	MESH:C535838	1592
+9	Pancreatitis	MESH:D010195	1593
+15	Paraparesis	MESH:D020335	1612
+30	Paraparesis	MESH:D020335	1612
+9	Paraproteinemias	MESH:D010265	1616
+60	Paresthesia	MESH:D010292	1623
+60	Parkinson Disease	MESH:D010300	1624
+60	Parkinson Disease, Secondary	MESH:D010302	1625
+44	Parkinsonian Disorders	MESH:D020734	1626
+1	Pedophilia	MESH:D010378	1631
+7	Pemphigus	MESH:D010392	1638
+60	Peripheral Nervous System Diseases	MESH:D010523	1653
+61	Peripheral Nervous System Diseases	MESH:D010523	1653
+32	Phosphorus Metabolism Disorders	MESH:D010760	1670
+58	Pigmentation Disorders	MESH:D010859	1676
+9	Pituitary Neoplasms	MESH:D010911	1681
+54	Placenta Diseases	MESH:D010922	1683
+19	Placenta Diseases	MESH:D010922	1683
+6	Pneumonia, Staphylococcal	MESH:D011023	1700
+30	Poisoning	MESH:D011041	1703
+39	Polycystic Ovary Syndrome	MESH:D011085	1707
+33	Polycystic Ovary Syndrome	MESH:D011085	1707
+54	Polycystic Ovary Syndrome	MESH:D011085	1707
+61	Polyneuropathies	MESH:D011115	1714
+60	Polyneuropathies	MESH:D011115	1714
+4	Polyuria	MESH:D011141	1719
+9	Postoperative Complications	MESH:D011183	1727
+7	Postoperative Complications	MESH:D011183	1727
+32	Postoperative Complications	MESH:D011183	1727
+7	Precursor Cell Lymphoblastic Leukemia-Lymphoma	MESH:D054198	1738
+7	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	MESH:D054218	1739
+60	Pregnancy Complications, Infectious	MESH:D011251	1743
+54	Prenatal Exposure Delayed Effects	MESH:D011297	1748
+61	Prenatal Exposure Delayed Effects	MESH:D011297	1748
+54	Prenatal Injuries	MESH:D049188	1749
+9	Prolactinoma	MESH:D015175	1757
+32	Prostatic Hyperplasia	MESH:D011470	1760
+2	Prostatic Neoplasms	MESH:D011471	1762
+32	Prostatic Neoplasms	MESH:D011471	1762
+42	Prostatic Neoplasms	MESH:D011471	1762
+1	Prostatic Neoplasms	MESH:D011471	1762
+7	Proteinuria	MESH:D011507	1770
+32	Pseudohypoparathyroidism	MESH:D011547	1776
+58	Pseudotumor Cerebri	MESH:D011559	1779
+7	Psoriasis	MESH:D011565	1781
+54	Psoriasis	MESH:D011565	1781
+58	Psoriasis	MESH:D011565	1781
+32	Psoriasis	MESH:D011565	1781
+54	Psychophysiologic Disorders	MESH:D011602	1784
+60	Psychotic Disorders	MESH:D011618	1786
+1	Puberty, Precocious	MESH:D011629	1788
+32	Pulmonary Edema	MESH:D011654	1794
+7	Purpura, Thrombocytopenic, Idiopathic	MESH:D016553	1805
+6	Pyelonephritis	MESH:D011704	1806
+32	Reflex Sympathetic Dystrophy	MESH:D012019	1823
+32	Renal Insufficiency	MESH:D051437	1828
+7	Renal Insufficiency	MESH:D051437	1828
+15	Renal Insufficiency	MESH:D051437	1828
+58	Respiratory Distress Syndrome, Newborn	MESH:D012127	1834
+32	Respiratory Tract Infections	MESH:D012141	1841
+61	Retinitis Pigmentosa	MESH:D012174	1850
+32	Retinoblastoma	MESH:D012175	1851
+32	Rickets	MESH:D012279	1868
+34	Salmonella Infections	MESH:D012480	1878
+54	Schizophrenia	MESH:D012559	1894
+15	Schizophrenia	MESH:D012559	1894
+60	Schizophrenia	MESH:D012559	1894
+7	Scleroderma, Localized	MESH:D012594	1906
+54	Scotoma	MESH:D012607	1910
+7	Sebaceous Gland Diseases	MESH:D012625	1912
+43	Seizures	MESH:D012640	1915
+39	Seizures	MESH:D012640	1915
+60	Seizures	MESH:D012640	1915
+30	Seizures	MESH:D012640	1915
+7	Seizures	MESH:D012640	1915
+61	Seizures	MESH:D012640	1915
+23	Seizures	MESH:D012640	1915
+7	Shock	MESH:D012769	1926
+6	Shock, Septic	MESH:D012772	1929
+54	Sinus Thrombosis, Intracranial	MESH:D012851	1940
+60	Skin Diseases	MESH:D012871	1946
+36	Skin Diseases	MESH:D012871	1946
+54	Skin Diseases	MESH:D012871	1946
+58	Skin Diseases	MESH:D012871	1946
+32	Skin Neoplasms	MESH:D012878	1952
+7	Spermatic Cord Torsion	MESH:D013086	1977
+19	Spina Bifida Cystica	MESH:D016137	1980
+30	Spina Bifida Occulta	MESH:D016136	1981
+15	Spinal Cord Diseases	MESH:D013118	1983
+54	Spinal Cord Diseases	MESH:D013118	1983
+30	Spinal Cord Diseases	MESH:D013118	1983
+54	Spinal Dysraphism	MESH:D016135	1988
+54	Sprue, Tropical	MESH:D013182	2001
+6	Staphylococcal Infections	MESH:D013203	2003
+60	Status Epilepticus	MESH:D013226	2007
+7	Status Epilepticus	MESH:D013226	2007
+7	Stevens-Johnson Syndrome	MESH:D013262	2010
+39	Stomach Diseases	MESH:D013272	2013
+9	Stomach Neoplasms	MESH:D013274	2014
+7	Stomatitis, Aphthous	MESH:D013281	2017
+0	Stroke	MESH:D020521	2020
+36	Stroke	MESH:D020521	2020
+54	Stroke	MESH:D020521	2020
+7	Substance Withdrawal Syndrome	MESH:D013375	2028
+61	Teratozoospermia	MESH:D000072660	2065
+32	Testicular Diseases	MESH:D013733	2066
+19	Testicular Diseases	MESH:D013733	2066
+61	Testicular Diseases	MESH:D013733	2066
+7	Thrombocytopenia	MESH:D013921	2076
+54	Thrombocytopenia	MESH:D013921	2076
+0	Thrombocytopenia	MESH:D013921	2076
+0	Thrombosis	MESH:D013927	2081
+50	Thrombosis	MESH:D013927	2081
+9	Thymoma	MESH:D013945	2083
+54	Toxoplasmosis	MESH:D014123	2112
+60	Tuberculosis	MESH:D014376	2132
+60	Tuberculosis, Pulmonary	MESH:D014397	2141
+7	Ulcer	MESH:D014456	2148
+32	Uremia	MESH:D014511	2153
+39	Urinary Bladder Diseases	MESH:D001745	2160
+61	Urinary Bladder Neoplasms	MESH:D001749	2162
+9	Urinary Bladder Neoplasms	MESH:D001749	2162
+7	Uveitis	MESH:D014605	2185
+33	Uveitis	MESH:D014605	2185
+7	Uveitis, Posterior	MESH:D015866	2187
+58	Vitamin A Deficiency	MESH:D014802	2225
+32	Vitamin D Deficiency	MESH:D014808	2227
+61	Weight Gain	MESH:D015430	2238
+33	Weight Loss	MESH:D015431	2239
+30	Weight Loss	MESH:D015431	2239
+61	Weight Loss	MESH:D015431	2239
+48	Wernicke Encephalopathy	MESH:D014899	2240
+7	Xerophthalmia	MESH:D014985	2250

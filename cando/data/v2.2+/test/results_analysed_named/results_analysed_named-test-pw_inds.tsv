@@ -1,0 +1,36 @@
+disease_id	cmpds_per_disease	top10	top25	top50	top100	topAll	top1%	top5%	top10%	top50%	top100%	disease_name
+MESH:D012640	7	71.4	100.	100.	100.	100.	0.0	14.2	42.8	100.	100.	Seizures
+MESH:D056486	6	50.0	100.	100.	100.	100.	0.0	33.3	33.3	100.	100.	Chemical and Drug Induced Liver Injury
+MESH:D009202	5	40.0	80.0	100.	100.	100.	40.0	40.0	40.0	100.	100.	Cardiomyopathies
+MESH:D002386	5	80.0	80.0	100.	100.	100.	40.0	60.0	80.0	80.0	100.	Cataract
+MESH:D001943	5	80.0	80.0	100.	100.	100.	0.0	0.0	60.0	80.0	100.	Breast Neoplasms
+MESH:D015179	4	0.0	50.0	100.	100.	100.	0.0	0.0	0.0	75.0	100.	Colorectal Neoplasms
+MESH:D011471	4	100.	100.	100.	100.	100.	50.0	100.	100.	100.	100.	Prostatic Neoplasms
+MESH:D008106	4	75.0	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Liver Cirrhosis, Experimental
+MESH:D008103	4	25.0	50.0	100.	100.	100.	0.0	0.0	25.0	50.0	100.	Liver Cirrhosis
+MESH:D003072	4	50.0	50.0	100.	100.	100.	0.0	25.0	25.0	75.0	100.	Cognition Disorders
+MESH:D065626	3	33.3	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Non-alcoholic Fatty Liver Disease
+MESH:D015431	3	0.0	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Weight Loss
+MESH:D011085	3	66.6	66.6	100.	100.	100.	0.0	66.6	66.6	66.6	100.	Polycystic Ovary Syndrome
+MESH:D009422	3	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	0.0	100.	Nervous System Diseases
+MESH:D008545	3	33.3	66.6	100.	100.	100.	0.0	0.0	0.0	66.6	100.	Melanoma
+MESH:D008114	3	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	0.0	100.	Liver Neoplasms, Experimental
+MESH:D006973	3	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	33.3	100.	Hypertension
+MESH:D006528	3	33.3	66.6	100.	100.	100.	0.0	0.0	0.0	66.6	100.	Carcinoma, Hepatocellular
+MESH:D058186	2	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	50.0	100.	Acute Kidney Injury
+MESH:D020258	2	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	50.0	100.	Neurotoxicity Syndromes
+MESH:D013226	2	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	100.	100.	Status Epilepticus
+MESH:D010190	2	100.	100.	100.	100.	100.	0.0	50.0	100.	100.	100.	Pancreatic Neoplasms
+MESH:D010051	2	0.0	50.0	100.	100.	100.	0.0	0.0	0.0	50.0	100.	Ovarian Neoplasms
+MESH:D009410	2	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	50.0	100.	Nerve Degeneration
+MESH:D009374	2	0.0	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Neoplasms, Experimental
+MESH:D009369	2	0.0	0.0	50.0	100.	100.	0.0	0.0	0.0	0.0	100.	Neoplasms
+MESH:D008569	2	100.	100.	100.	100.	100.	0.0	0.0	50.0	100.	100.	Memory Disorders
+MESH:D008113	2	0.0	0.0	50.0	100.	100.	0.0	0.0	0.0	50.0	100.	Liver Neoplasms
+MESH:D004487	2	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	0.0	100.	Edema
+MESH:D002294	2	50.0	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Carcinoma, Squamous Cell
+MESH:D001749	2	0.0	0.0	100.	100.	100.	0.0	0.0	0.0	50.0	100.	Urinary Bladder Neoplasms
+MESH:D001172	2	0.0	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Arthritis, Rheumatoid
+MESH:D000544	2	0.0	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Alzheimer Disease
+MESH:D000236	2	50.0	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Adenoma
+MESH:D000230	2	100.	100.	100.	100.	100.	0.0	0.0	0.0	100.	100.	Adenocarcinoma

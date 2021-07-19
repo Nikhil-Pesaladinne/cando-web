@@ -1,0 +1,11 @@
+rank	score1	score2	offhits	diff	id	approved	name
+1	63	37.225	0.0    	37.225 	33	true    	lutein
+2	63	36.715	0.0    	36.715 	60	true    	pyridoxine
+3	63	36.34	0.0    	36.34  	63	false   	aspartame
+4	63	36.255	0.0    	36.255 	49	true    	ergocalciferol
+5	63	36.2	0.0    	36.2   	32	true+   	calcitriol
+6	63	35.98	0.0    	35.98  	43	false   	pyridoxal
+7	63	35.96	0.0    	35.96  	58	true    	vitamin_a
+8	63	35.935	0.0    	35.935 	47	true    	cysteine
+9	63	35.865	0.0    	35.865 	16	true    	pyruvic_acid
+10	63	35.865	0.0    	35.865 	29	false   	serine

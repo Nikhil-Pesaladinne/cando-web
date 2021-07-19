@@ -9,18 +9,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script src="js/jquery-3.5.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script>
-    $(document).ready(function(){
-        $('a[data-toggle="tab"]').on('show.bs.tab', function(e) {
-            localStorage.setItem('activeTab', $(e.target).attr('href'));
-        });
-        var activeTab = localStorage.getItem('activeTab');
-        if(activeTab){
-            $('#tabs a[href="' + activeTab + '"]').tab('show');
-        }
-    }); 
-    </script>
+  <script src="js/bootstrap.min.js"></script>
 </head>
 <style type="text/css">
   .sides {
@@ -39,132 +28,129 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <form class="form-inline" action="#">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search">
-        <button class="btn btn-success" type="submit">Search</button>
-      </form>
   </nav>
   </div>
   </nav>
   <div class="container mt-3">
     <div class="row">
-      <div class="col-sm-2 sides">
-      </div>
+      <div class="col-sm-2 sides"></div>
       <div class="col-lg-8">
-        <ul class="nav nav-tabs" role="tablist" id="tabs">
+        <ul class="nav nav-tab" role="tablist" id="tabs">
           <li class="nav-item">
-            <a class="nav-link active" data-toggle="tab" href="#home">CANDO</a>
+            <a class="nav-link" href="/cando">CANDO</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#menu1">Compounds/Drugs</a>
+            <a class="nav-link" href="/compounds_drugs">Compounds/Drugs</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#menu2">Proteins</a>
+            <a class="nav-link" href="/indications">Indications</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#menu3">Indications</a>
+            <a class="nav-link" href="/adr">ADR</a>
           </li>
         </ul>
         <div class="tab-content">
-          <div id="home" class="container tab-pane fade show active"><br>
-            <div class="form-group col-lg-6">
-              <label for="sel1">Select Method:</label>
-              <select class="form-control" id="sel1">
-                <option value="calcScores">calc_scores() --</option>
-              </select>
+          {% if cando_selection %}
+          <div id="cando" class="tab-pane active">
+            <h2> CANDO </h2>
+              <form action="/form_selection" method=post>
+                <label for="sel_cando">Select Method:</label>
+                <select class="form-control" name="selection" id="sel_cando" onchange="this.form.submit()">
+                  <option value="">select method</option>
+                  {% for method in cando_obj.cando_methods() %}
+                    <option value="{{method[0:method|length]}}">{{method}}</option>
+                  {% endfor %} 
+                </select>
+                <input type="hidden" name="reroute" id="reroute" value="cando">
+              </form>
+            {% if selected_method != "" %} 
+            <h3 class="mr-sm-2">{{selected_method+"() :"}}</h3>
+            <form method=post class="form-inline" action="/{{selected_method}}">
+                {% for required in required_parameters[selected_method] %}
+                  <label for={{required}}><b>{{required+": "}}</b></label><br>
+                  <input class="form-control mr-sm-2" name={{required}} id={{required}} type="text">
+                {% endfor %}
+                <button class="btn btn-primary mb-1" type="submit">Predict</button>
+            </form>   
+            <u data-toggle="collapse" href="#showAdvanced" role="button" aria-expanded="false" aria-controls="collapseExample">Advanced Settings</u>
+            <div class="collapse row mt-4" id="showAdvanced">
+            <div class="offset-lg-2 col-lg-6 mh-200 border">
+            <form method=post action="/{{selected_method}}">                        
+                  {% for param in cando_obj.inspect_method(selected_method) %}
+                    <div class="form-group row">
+                      <label for={{param}} class="col-sm-6 col-form-label">{{param}}</label>
+                      <div class="col-sm-6 p-1">
+                        <input type="text" class="form-control" name={{param}} id={{param}}>
+                      </div>
+                    </div>
+                  {% endfor %}
+                  <button class="btn btn-primary mb-1" type="submit">Predict</button>
+            </form>      
             </div>
-            <div class="row mt-4" id="demo">
-              <div class="ml-4 col-lg-4 mh-200">
-                <div class="form-group row p-1">
-                  <label for="c" class="col-sm-6 col-form-label">C:</label>
-                  <div class="col-sm-6 p-1">
-                    <input type="text" class="form-control" id="c">
-                  </div>
-                </div>
-                <div class="form-group row">
-                  <label for="C_fps" class="col-sm-6 col-form-label">C_fps:</label>
-                  <div class="col-sm-6 p-1">
-                    <input type="text" class="form-control" id="C_fps">
-                  </div>
-                </div>
-                <div class="form-group row">
-                  <label for="keepAssociated" class="col-sm-6 col-form-label">L_fps:</label>
-                  <div class="col-sm-6 p-1">
-                    <input type="email" class="form-control" id="keepAssociated">
-                  </div>
-                </div>
-                <div class="form-group row p-1">
-                  <label for="p_dist" class="col-sm-6 col-form-label">P_dist:</label>
-                  <div class="col-sm-6 p-1">
-                    <input type="text" class="form-control" id="p_dist">
-                  </div>
-                </div>
-                <div class="form-group row">
-                  <label for="pscorecutoff" class="col-sm-6 col-form-label">Pscore_cutoff:</label>
-                  <div class="col-sm-6 p-1">
-                    <input type="text" class="form-control" id="pscorecutoff">
-                  </div>
-                </div>
-                <div class="form-group row">
-                  <label for="cscorecutoff" class="col-sm-6 col-form-label">Cscore_cutoff:</label>
-                  <div class="col-sm-6 p-1">
-                    <input type="email" class="form-control" id="cscorecutoff">
-                  </div>
-                </div> 
-              </div>
             </div>
+            {% if file %}            
+            <button class="btn btn-primary mb-1" onclick="location.href = '/download'">Download output</button>
+            <table class="table table-striped table-bordered mt-4">
+                <thead>
+                    <tr class="table-success">
+                        {% for header in file[0].split("\t") %}
+                            <th>{{ header }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                    <tbody>
+                        {% for l in file[1:] %}
+                            <tr>
+                                {% for value in l.split("\t") %}     
+                                <td>{{ value }}</td>
+                                {% endfor %}
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+            </table>
+            {% endif %} 
+          {% endif %}
           </div>
-          <div id="menu1" class="container tab-pane fade mt-5">
-            <form method=post class="form-inline" action="/canpredict_compounds">
-              <h3 class="mr-sm-2">Predict Compounds</h3>
-              <input class="form-control mr-sm-2" name=indication id=indication type="text" placeholder="Indication Name Here">
+        {% elif compounds_drugs_selection %}
+          <div id="compounds_drugs" class="tab-pane active">
+            <h2> Compounds/Drugs </h2>
+            <form action="/form_selection" method=post>
+              <label for="sel_compounds_drugs">Select Method:</label>
+              <select class="form-control" name="selection" id="sel_compounds_drugs" onchange="this.form.submit()">
+                <option value="">select method</option>
+                {% for method in cando_obj.compounds_drugs_methods() %}
+                  <option value="{{method[0:method|length]}}">{{method}}</option>
+                {% endfor %} 
+              </select>
+              <input type="hidden" name="reroute" id="reroute" value="compounds_drugs">
+            </form>
+          {% if selected_method != "" %}
+            <h3 class="mr-sm-2">{{selected_method+"() :"}}</h3>
+            <form method=post class="form-inline" action="/{{selected_method}}">
+              {% for required in required_parameters[selected_method] %}
+                  <label for={{required}}><b>{{required+": "}}</b></label>&nbsp;
+                  <input class="form-control mr-sm-2" name={{required}} id={{required}} type="text">
+              {% endfor %}
               <button class="btn btn-primary mb-1" type="submit">Predict</button>
             </form>
             <u data-toggle="collapse" href="#showAdvanced" role="button" aria-expanded="false" aria-controls="collapseExample">Advanced Settings</u>
             <div class="collapse row mt-4" id="showAdvanced">
             <div class="offset-lg-2 col-lg-6 mh-200 border">
-                <form method=post action="/canpredict_compounds">
-                    <div class="form-group row p-1">
-                        <label for="indication" class="col-sm-8 col-form-label">Indication id:</label>
-                        <div class="col-sm-4 p-1">
-                            <input type="text" class="form-control" name="indication" id="indication">
-                        </div>
+              <form method=post action="/{{selected_method}}">                        
+                {% for param in cando_obj.inspect_method(selected_method) %}
+                  <div class="form-group row">
+                    <label for={{param}} class="col-sm-6 col-form-label">{{param}}</label>
+                    <div class="col-sm-6 p-1">
+                      <input type="text" class="form-control" name={{param}} id={{param}}>
                     </div>
-                    <div class="form-group row">
-                        <label for="n" class="col-sm-8 col-form-label">n:</label>
-                        <div class="col-sm-4 p-1">
-                            <input type="text" class="form-control" name="n" id="n">
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="topX" class="col-sm-8 col-form-label">topX:</label>
-                        <div class="col-sm-4 p-1">
-                            <input type="text" class="form-control" name="topX" id="topX">
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="consensus" class="col-sm-8 col-form-label">Consensus:</label>
-                        <div class="col-sm-4 p-1">
-                            <input type="text" class="form-control" name="consensus" id="consensus">
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="keep_associated" class="col-sm-8 col-form-label">Keep associated:</label>
-                        <div class="col-sm-4 p-1">
-                            <input type="text" class="form-control" name="keep_associated" id="keep_associated">
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="cmpd_set" class="col-sm-8 col-form-label">Compound set:</label>
-                        <div class="col-sm-4 p-1">
-                            <input type="text" class="form-control" name="cmpd_set" id="cmpd_set">
-                        </div>
-                    </div>
-                    <button class="btn btn-primary mb-1" type="submit">Predict</button>
-                </form>
+                  </div>
+                {% endfor %}
+                <button class="btn btn-primary mb-1" type="submit">Predict</button>
+              </form>      
             </div>
             </div>
             {% if file %}
+            <button class="btn btn-primary mb-1" onclick="location.href = '/download'"> Download output</button>
             <table class="table table-striped table-bordered mt-4">
                 <thead>
                     <tr class="table-success">
@@ -180,20 +166,151 @@
                                 <td>{{ value }}</td>
                                 {% endfor %}
                                 <td>
-                                    <a href="https://go.drugbank.com/drugs/{{cmpd_mappings[l.split('\t')[-1]]}}">{{ l.split("\t")[-1] }}</a>
+                                    <a href="https://go.drugbank.com/drugs/{{cmpd_mappings[l.split('\t')[-1]]}}" target="_blank">{{ l.split("\t")[-1] }}</a>
                                 </td>
                             </tr>
                         {% endfor %}
                     </tbody>
             </table>
-            <button class="btn btn-primary mb-1" action="/download">Download output</button>
             {% endif %} 
+            {% endif %}
           </div>
-          <div id="menu2" class="container tab-pane fade"><br>
-            <h3>Menu 2</h3>
-            {% set name = cando_obj.inspect_method("canpredict_compounds") %}
-            <p>{{ name }}</p>
+        {% elif indications_selection %}
+        <div id="indications" class="tab-pane active">
+          <h2> Indications </h2>
+          <form action="/form_selection" method=post>
+            <label for="sel_indications">Select Method:</label>
+            <select class="form-control" name="selection" id="sel_indications" onchange="this.form.submit()">
+              <option value="">select method</option>
+              {% for method in cando_obj.indications_methods() %}
+                <option value="{{method[0:method|length]}}">{{method}}</option>
+              {% endfor %} 
+            </select>
+            <input type="hidden" name="reroute" id="reroute" value="indications">
+          </form>
+        {% if selected_method != "" %}
+          <h3 class="mr-sm-2">{{selected_method+"() :"}}</h3>
+          <form method=post class="form-inline" action="/{{selected_method}}">
+            {% for required in required_parameters[selected_method] %}
+                <label for={{required}}><b>{{required+": "}}</b></label>
+                <input class="form-control mr-sm-2" name={{required}} id={{required}} type="text">
+            {% endfor %}
+            <button class="btn btn-primary mb-1" type="submit">Predict</button>
+          </form>
+          <u data-toggle="collapse" href="#showAdvanced" role="button" aria-expanded="false" aria-controls="collapseExample">Advanced Settings</u>
+          <div class="collapse row mt-4" id="showAdvanced">
+          <div class="offset-lg-2 col-lg-6 mh-200 border">
+            <form method=post action="/{{selected_method}}">                        
+              {% for param in cando_obj.inspect_method(selected_method) %}
+                <div class="form-group row">
+                  <label for={{param}} class="col-sm-6 col-form-label">{{param}}</label>
+                  <div class="col-sm-6 p-1">
+                    <input type="text" class="form-control" name={{param}} id={{param}}>
+                  </div>
+                </div>
+              {% endfor %}
+              <button class="btn btn-primary mb-1" type="submit">Predict</button>
+            </form>      
           </div>
+          </div>
+          {% if file %}
+          <button class="btn btn-primary mb-1" onclick="location.href = '/download'">Download output</button>
+          <table class="table table-striped table-bordered mt-4">
+              <thead>
+                  <tr class="table-success">
+                      {% for header in file[0].split("\t") %}
+                          <th>{{ header }}</th>
+                      {% endfor %}
+                  </tr>
+              </thead>
+                  <tbody>
+                      {% for l in file[1:] %}
+                          <tr>
+                              {% for value in l.split("\t") %}   
+                                {% if "ind_id" in file[0].split("\t")[loop.index-1] %}
+                                <td>
+                                  <a href="https://www.ncbi.nlm.nih.gov/medgen/?term={{(l.split('\t')[loop.index-1])[5:]}}" target="_blank">{{ l.split("\t")[loop.index-1] }}</a>
+                                </td>
+                                {% elif "disease_id" in file[0].split("\t")[loop.index-1] %}
+                                <td>
+                                  <a href="https://www.ncbi.nlm.nih.gov/medgen/?term={{(l.split('\t')[loop.index-1])[5:]}}" target="_blank">{{ l.split("\t")[loop.index-1] }}</a>
+                                </td>
+                                {% else %}
+                                <td>{{ value }}</td>
+                                {% endif %}
+                              {% endfor %}   
+                          </tr>
+                      {% endfor %}
+                  </tbody>
+          </table>
+          {% endif %} 
+          {% endif %}
+        </div>
+        {% elif adr_selection %}
+        <div id="adr" class="tab-pane active">
+          <h2> ADR </h2>
+          <form action="/form_selection" method=post>
+            <label for="sel_adr">Select Method:</label>
+            <select class="form-control" name="selection" id="sel_adr" onchange="this.form.submit()">
+              <option value="">select method</option>
+              {% for method in cando_obj.adr_methods() %}
+                <option value="{{method[0:method|length]}}">{{method}}</option>
+              {% endfor %} 
+            </select>
+            <input type="hidden" name="reroute" id="reroute" value="adr">
+          </form>
+        {% if selected_method != "" %}
+          <h3 class="mr-sm-2">{{selected_method+"() :"}}</h3>
+          <form method=post class="form-inline" action="/{{selected_method}}">
+            {% for required in required_parameters[selected_method] %}
+                <label for={{required}}><b>{{required+": "}}</b></label>
+                <input class="form-control mr-sm-2" name={{required}} id={{required}} type="text">
+            {% endfor %}
+            <button class="btn btn-primary mb-1" type="submit">Predict</button>
+          </form>
+          <u data-toggle="collapse" href="#showAdvanced" role="button" aria-expanded="false" aria-controls="collapseExample">Advanced Settings</u>
+          <div class="collapse row mt-4" id="showAdvanced">
+          <div class="offset-lg-2 col-lg-6 mh-200 border">
+            <form method=post action="/{{selected_method}}">                        
+              {% for param in cando_obj.inspect_method(selected_method) %}
+                <div class="form-group row">
+                  <label for={{param}} class="col-sm-6 col-form-label">{{param}}</label>
+                  <div class="col-sm-6 p-1">
+                    <input type="text" class="form-control" name={{param}} id={{param}}>
+                  </div>
+                </div>
+              {% endfor %}
+              <button class="btn btn-primary mb-1" type="submit">Predict</button>
+            </form>      
+          </div>
+          </div>
+          {% if file %}
+          <button class="btn btn-primary mb-1" onclick="location.href = '/download'">Download output</button>
+          <table class="table table-striped table-bordered mt-4">
+              <thead>
+                  <tr class="table-success">
+                      {% for header in file[0].split("\t") %}
+                          <th>{{ header }}</th>
+                      {% endfor %}
+                  </tr>
+              </thead>
+                  <tbody>
+                      {% for l in file[1:] %}
+                          <tr>
+                              <td>
+                                <a href="https://www.ncbi.nlm.nih.gov/medgen/?term={{(l.split('\t')[0])[5:]}}" target="_blank">{{ l.split("\t")[0] }}</a>
+                              </td>
+                              {% for value in l.split("\t")[1:] %}     
+                              <td>{{ value }}</td>
+                              {% endfor %}   
+                          </tr>
+                      {% endfor %}
+                  </tbody>
+          </table>
+          {% endif %} 
+          {% endif %}
+        </div>
+        {% endif %}
         </div>
       </div>
     </div>

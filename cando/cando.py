@@ -3805,20 +3805,17 @@ class CANDO(object):
             c.similar = list(map(norm, c.similar))
         return
 
-    def cando_methods():
-        return ['canbenchmark', 'canbenchmark_associated', 'canbenchmark_bottom', 'canbenchmark_cluster',
-        'canbenchmark_ndcg', 'canbenchmark_cluster', 'add_cmpds', 'cosine_dist', 'tanimoto_sparse',
-        'tanimoto_dense']
+    def cando_methods(self):
+        return []
 
-    def compounds_drugs_methods():
-        return ['search_compound', 'get_compound', 'get_compound_pair', 'virtual_screen', 'similar_compounds', 'generate_similar_sigs',
-        'generate_similar_sigs_cp', 'generate_some_similar_sigs', 'canpredict_compounds', 'canpredict_denovo', 'canpredict_ddi_cmpds',
-        'fusion', 'sigs']
+    def compounds_drugs_methods(self):
+        return ['canpredict_compounds', 'canpredict_denovo']
 
-    def indications_methods():
-        return ['canpredict_indications']
+    def indications_methods(self):
+        return ['canpredict_indications', 'canbenchmark', 'canbenchmark_associated', 'canbenchmark_bottom', 'canbenchmark_cluster',
+        'canbenchmark_compounds', 'canbenchmark_ddi', 'canbenchmark_ndcg']
 
-    def adr_methods():
+    def adr_methods(self):
         return ['canpredict_adr', 'canpredict_ddi_adrs']
 
     def inspect_method(self, method_name):
