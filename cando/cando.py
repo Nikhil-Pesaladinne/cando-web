@@ -10,6 +10,7 @@ import pandas as pd
 import multiprocessing as mp
 import difflib
 import matplotlib.pyplot as plt
+import inspect
 from decimal import Decimal
 from rdkit import Chem, DataStructs, RDConfig
 from rdkit.Chem import AllChem, rdmolops
@@ -3790,6 +3791,22 @@ class CANDO(object):
         for c in self.compounds:
             c.similar = list(map(norm, c.similar))
         return
+
+    def cando_methods(self):
+        return []
+
+    def compounds_drugs_methods(self):
+        return ['canpredict_compounds']
+
+    def indications_methods(self):
+        return ['canpredict_indications', 'canbenchmark', 'canbenchmark_associated', 'canbenchmark_bottom', 'canbenchmark_cluster',
+        'canbenchmark_compounds', 'canbenchmark_ddi', 'canbenchmark_ndcg']
+
+    def adr_methods(self):
+        return ['canpredict_adr']
+
+    def inspect_method(self, method_name):
+        return inspect.getargspec(getattr(CANDO, method_name)).args[1:]
 
     def __str__(self):
         """!

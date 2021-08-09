@@ -1,0 +1,4 @@
+rank	probability	score	ind_id	indication
+1	8.94e-08	2	MESH:D007889	Leiomyoma
+2	8.84e-05	2	MESH:D011471	Prostatic Neoplasms
+3	1.90e-04	2	MESH:D001943	Breast Neoplasms

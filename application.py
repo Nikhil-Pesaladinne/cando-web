@@ -5,20 +5,17 @@ import cando as cnd
 
 app = Flask(__name__)
 
-matrix_file = 'cando/data/v2.2+/test/test-matrix.tsv'
-inds_map = 'cando/data/v2.2+/test/test-inds.tsv'
-cmpd_map = 'cando/data/v2.2+/test/test-cmpds.tsv'
-cmpd_dir = 'cando/data/v2.2+/test/test-cmpds_mol/'
-new_cmpds = 'cando/data/v2.2+/test/test-new_cmpds.tsv'
+matrix_file = 'cando/data/v2.2+/matrices/rd_ecfp4-nrpdb-v2.2-all-int_vect-dice-CxP.tsv'
+cmpd_map = 'cando/data/v2.2+/mappings/drugbank-v2.2.tsv'
+inds_map = 'cando/data/v2.2+/mappings/drugbank2ctd-v2.2.tsv'
 file_name = "empty"
 selected_method = ""
 b = True
-cando_obj = cnd.CANDO(cmpd_map, inds_map, matrix=matrix_file, compute_distance=True,
-                  save_dists='test_rmsds.tsv', dist_metric='cosine', ncpus=1)
+cando_obj = cnd.CANDO(cmpd_map, inds_map, matrix=matrix_file)
 
 indication_mappings = {}
 cmpd_mappings = {}
-required_parameters = {"canpredict_compounds": ["indication"],
+required_parameters = {"canpredict_compounds": ["ind_id"],
                        "canpredict_indications": ["cmpd"],
                        "canpredict_adr": ["cmpd"],
                        "canbenchmark": [],

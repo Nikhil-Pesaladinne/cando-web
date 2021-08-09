@@ -1,0 +1,1650 @@
+disease_id	cmpds_per_disease	top10	top25	top50	top100	topAll	top1%	top5%	top10%	top50%	top100%	disease_name
+MESH:D006973	288	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertension
+MESH:D012640	268	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Seizures
+MESH:D010146	261	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pain
+MESH:D007249	171	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Inflammation
+MESH:D056486	170	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chemical and Drug Induced Liver Injury
+MESH:D001943	158	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Breast Neoplasms
+MESH:D006930	148	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperalgesia
+MESH:D007674	145	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Diseases
+MESH:D009336	142	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Necrosis
+MESH:D004487	137	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Edema
+MESH:D003866	131	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Depressive Disorder
+MESH:D006948	129	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperkinesis
+MESH:D013375	126	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Substance Withdrawal Syndrome
+MESH:D002375	126	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Catalepsy
+MESH:D011471	122	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prostatic Neoplasms
+MESH:D007022	122	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypotension
+MESH:D019970	118	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cocaine-Related Disorders
+MESH:D009369	118	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms
+MESH:D009203	111	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myocardial Infarction
+MESH:D006333	108	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Failure
+MESH:D009374	105	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms, Experimental
+MESH:D001145	101	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arrhythmias, Cardiac
+MESH:D013610	97	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tachycardia
+MESH:D004409	97	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dyskinesia, Drug-Induced
+MESH:D064420	96	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Drug-Related Side Effects and Adverse Reactions
+MESH:D058186	96	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acute Kidney Injury
+MESH:D011507	95	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Proteinuria
+MESH:D008569	93	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Memory Disorders
+MESH:D009362	87	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasm Metastasis
+MESH:D008545	85	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Melanoma
+MESH:D008175	85	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lung Neoplasms
+MESH:D003072	83	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cognition Disorders
+MESH:D006332	82	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiomegaly
+MESH:D001008	82	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anxiety Disorders
+MESH:D015431	81	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Weight Loss
+MESH:D010149	81	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pain, Postoperative
+MESH:D001919	81	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bradycardia
+MESH:D012559	80	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schizophrenia
+MESH:D018487	78	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ventricular Dysfunction, Left
+MESH:D006943	78	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperglycemia
+MESH:D009410	76	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nerve Degeneration
+MESH:D003110	76	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Colonic Neoplasms
+MESH:D014202	75	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tremor
+MESH:D001714	75	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bipolar Disorder
+MESH:D009202	74	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiomyopathies
+MESH:D001172	70	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis, Rheumatoid
+MESH:D005334	69	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fever
+MESH:D000647	69	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amnesia
+MESH:D006528	68	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Hepatocellular
+MESH:D050197	67	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Atherosclerosis
+MESH:D009069	67	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Movement Disorders
+MESH:D013276	66	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stomach Ulcer
+MESH:D010190	66	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pancreatic Neoplasms
+MESH:D008881	63	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Migraine Disorders
+MESH:D000230	63	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adenocarcinoma
+MESH:D017202	62	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myocardial Ischemia
+MESH:D013203	61	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Staphylococcal Infections
+MESH:D009101	60	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Multiple Myeloma
+MESH:D005355	60	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fibrosis
+MESH:D015427	59	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Reperfusion Injury
+MESH:D011183	59	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Postoperative Complications
+MESH:D010051	59	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ovarian Neoplasms
+MESH:D008106	59	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Cirrhosis, Experimental
+MESH:D006470	59	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemorrhage
+MESH:D006331	59	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Diseases
+MESH:D001249	59	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Asthma
+MESH:D001523	58	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mental Disorders
+MESH:D051437	57	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Renal Insufficiency
+MESH:D017180	57	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tachycardia, Ventricular
+MESH:D015179	57	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Colorectal Neoplasms
+MESH:D007333	57	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Insulin Resistance
+MESH:D001424	57	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bacterial Infections
+MESH:D014839	56	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vomiting
+MESH:D011618	56	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Psychotic Disorders
+MESH:D008325	56	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mammary Neoplasms, Experimental
+MESH:D008103	56	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Cirrhosis
+MESH:D001749	56	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Bladder Neoplasms
+MESH:D000419	56	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Albuminuria
+MESH:D003865	55	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Depressive Disorder, Major
+MESH:D002545	55	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Ischemia
+MESH:D001930	55	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Injuries
+MESH:D020734	54	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Parkinsonian Disorders
+MESH:D010300	54	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Parkinson Disease
+MESH:D007859	54	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Learning Disabilities
+MESH:D000787	54	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Angina Pectoris
+MESH:D015470	53	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Myeloid, Acute
+MESH:D011654	53	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Edema
+MESH:D014693	52	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ventricular Fibrillation
+MESH:D009207	52	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myoclonus
+MESH:D006976	52	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertension, Pulmonary
+MESH:D005234	52	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fatty Liver
+MESH:D004827	52	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy
+MESH:D013927	51	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thrombosis
+MESH:D011014	51	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumonia
+MESH:D003928	51	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetic Nephropathies
+MESH:D009361	50	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasm Invasiveness
+MESH:D006937	50	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypercholesterolemia
+MESH:D017379	49	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertrophy, Left Ventricular
+MESH:D007938	49	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia
+MESH:D006965	49	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperplasia
+MESH:D003967	49	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diarrhea
+MESH:D001281	49	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Atrial Fibrillation
+MESH:D014552	48	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Tract Infections
+MESH:D009765	47	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Obesity
+MESH:D005910	47	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glioma
+MESH:D005909	47	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glioblastoma
+MESH:D002289	47	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Non-Small-Cell Lung
+MESH:D000544	47	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alzheimer Disease
+MESH:D008113	46	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Neoplasms
+MESH:D013274	45	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stomach Neoplasms
+MESH:D013226	45	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Status Epilepticus
+MESH:D009127	45	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscle Rigidity
+MESH:D006949	45	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperlipidemias
+MESH:D002318	44	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiovascular Diseases
+MESH:D002277	44	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma
+MESH:D054198	43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+MESH:D015430	43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Weight Gain
+MESH:D011565	43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Psoriasis
+MESH:D006261	43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Headache
+MESH:D004421	43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dystonia
+MESH:D002294	43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Squamous Cell
+MESH:D010554	42	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Personality Disorders
+MESH:D004697	42	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endocarditis, Bacterial
+MESH:D003924	42	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Mellitus, Type 2
+MESH:D011041	41	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Poisoning
+MESH:D007319	41	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sleep Initiation and Maintenance Disorders
+MESH:D004195	41	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Disease Models, Animal
+MESH:D020521	40	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stroke
+MESH:D015428	40	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myocardial Reperfusion Injury
+MESH:D011595	40	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Psychomotor Agitation
+MESH:D003921	40	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Mellitus, Experimental
+MESH:D009437	39	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuralgia
+MESH:D007511	39	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ischemia
+MESH:D003092	39	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Colitis
+MESH:D003324	38	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Artery Disease
+MESH:D015658	37	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	HIV Infections
+MESH:D012878	37	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Skin Neoplasms
+MESH:D012772	37	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Shock, Septic
+MESH:D010523	37	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peripheral Nervous System Diseases
+MESH:D009422	37	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nervous System Diseases
+MESH:D011658	36	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Fibrosis
+MESH:D010003	36	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteoarthritis
+MESH:D008228	36	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, Non-Hodgkin
+MESH:D007172	36	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Erectile Dysfunction
+MESH:D018805	35	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sepsis
+MESH:D018476	35	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypokinesia
+MESH:D009325	35	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nausea
+MESH:D009135	35	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscular Diseases
+MESH:D008223	34	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma
+MESH:D008114	34	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Neoplasms, Experimental
+MESH:D003556	34	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cystitis
+MESH:D055371	33	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acute Lung Injury
+MESH:D050171	33	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dyslipidemias
+MESH:D011605	33	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Psychoses, Substance-Induced
+MESH:D002389	33	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Catatonia
+MESH:D020820	32	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dyskinesias
+MESH:D005923	32	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glomerulosclerosis, Focal Segmental
+MESH:D004927	32	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Escherichia coli Infections
+MESH:D001321	32	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Autistic Disorder
+MESH:D020258	31	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurotoxicity Syndromes
+MESH:D015228	31	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertriglyceridemia
+MESH:D006689	31	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hodgkin Disease
+MESH:D006529	31	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatomegaly
+MESH:D005921	31	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glomerulonephritis
+MESH:D001289	31	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Attention Deficit Disorder with Hyperactivity
+MESH:D019969	30	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amphetamine-Related Disorders
+MESH:D011537	30	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pruritus
+MESH:D008107	30	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Diseases
+MESH:D007035	30	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypothermia
+MESH:D006212	30	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hallucinations
+MESH:D001929	30	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Edema
+MESH:D029424	29	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Disease, Chronic Obstructive
+MESH:D013290	29	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Streptococcal Infections
+MESH:D010243	29	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paralysis
+MESH:D002471	29	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cell Transformation, Neoplastic
+MESH:D001168	29	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis
+MESH:D053201	28	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Bladder, Overactive
+MESH:D019954	28	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurobehavioral Manifestations
+MESH:D013035	28	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spasm
+MESH:D012141	28	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Tract Infections
+MESH:D006940	28	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperemia
+MESH:D003327	28	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Disease
+MESH:D002779	28	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholestasis
+MESH:D016920	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis, Bacterial
+MESH:D016584	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Panic Disorder
+MESH:D016470	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bacteremia
+MESH:D014581	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urticaria
+MESH:D013272	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stomach Diseases
+MESH:D010302	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Parkinson Disease, Secondary
+MESH:D010024	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteoporosis
+MESH:D006258	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Head and Neck Neoplasms
+MESH:D004830	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy, Tonic-Clonic
+MESH:D002311	27	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiomyopathy, Dilated
+MESH:D014456	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ulcer
+MESH:D012893	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sleep Wake Disorders
+MESH:D011230	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Precancerous Conditions
+MESH:D009389	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neovascularization, Pathologic
+MESH:D008654	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mesothelioma
+MESH:D008288	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Malaria
+MESH:D006946	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperinsulinism
+MESH:D006192	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Haemophilus Infections
+MESH:D003929	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetic Neuropathies
+MESH:D003920	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Mellitus
+MESH:D003093	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Colitis, Ulcerative
+MESH:D002292	26	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Renal Cell
+MESH:D055370	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lung Injury
+MESH:D020250	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Postoperative Nausea and Vomiting
+MESH:D018754	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ventricular Dysfunction
+MESH:D018410	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumonia, Bacterial
+MESH:D015473	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Promyelocytic, Acute
+MESH:D015464	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+MESH:D012871	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Skin Diseases
+MESH:D010019	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteomyelitis
+MESH:D009798	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ocular Hypertension
+MESH:D009447	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuroblastoma
+MESH:D009404	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephrotic Syndrome
+MESH:D008180	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lupus Erythematosus, Systemic
+MESH:D007945	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Lymphoid
+MESH:D004681	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Encephalomyelitis, Autoimmune, Experimental
+MESH:D001932	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Neoplasms
+MESH:D001169	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis, Experimental
+MESH:D000437	25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alcoholism
+MESH:D018149	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glucose Intolerance
+MESH:D017116	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Low Back Pain
+MESH:D016778	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Malaria, Falciparum
+MESH:D014376	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis
+MESH:D013617	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tachycardia, Supraventricular
+MESH:D007024	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypotension, Orthostatic
+MESH:D006977	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertension, Renal
+MESH:D002295	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Transitional Cell
+MESH:D001480	24	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Basal Ganglia Diseases
+MESH:D066126	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiotoxicity
+MESH:D016889	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endometrial Neoplasms
+MESH:D015746	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Abdominal Pain
+MESH:D012563	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schizophrenia, Paranoid
+MESH:D012008	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Recurrence
+MESH:D006984	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertrophy
+MESH:D005767	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastrointestinal Diseases
+MESH:D004417	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dyspnea
+MESH:D004381	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Duodenal Ulcer
+MESH:D003693	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Delirium
+MESH:D003371	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cough
+MESH:D000855	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anorexia
+MESH:C000657245	23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	COVID-19
+MESH:D018879	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ventricular Premature Complexes
+MESH:D015451	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Lymphocytic, Chronic, B-Cell
+MESH:D014652	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vascular Diseases
+MESH:D013313	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stress Disorders, Post-Traumatic
+MESH:D012852	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sinusitis
+MESH:D011552	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pseudomonas Infections
+MESH:D010437	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peptic Ulcer
+MESH:D009771	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Obsessive-Compulsive Disorder
+MESH:D005901	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glaucoma
+MESH:D005207	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fasciculation
+MESH:D004719	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endomyocardial Fibrosis
+MESH:D003550	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cystic Fibrosis
+MESH:D002637	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chest Pain
+MESH:D001927	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Diseases
+MESH:D000152	22	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acne Vulgaris
+MESH:D019964	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mood Disorders
+MESH:D012208	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rhabdomyosarcoma
+MESH:D012131	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Insufficiency
+MESH:D010538	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peritonitis
+MESH:D007683	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Tubular Necrosis, Acute
+MESH:D007676	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Failure, Chronic
+MESH:D006526	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis C
+MESH:D006323	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Arrest
+MESH:D004802	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eosinophilia
+MESH:D003424	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Crohn Disease
+MESH:D002583	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uterine Cervical Neoplasms
+MESH:D000860	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoxia
+MESH:D000799	21	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Angioedema
+MESH:D054218	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+MESH:D048909	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Complications
+MESH:D020301	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vasospasm, Intracranial
+MESH:D018908	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscle Weakness
+MESH:D017714	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Community-Acquired Infections
+MESH:D017109	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Akathisia, Drug-Induced
+MESH:D013964	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thyroid Neoplasms
+MESH:D013921	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thrombocytopenia
+MESH:D013733	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Testicular Diseases
+MESH:D013119	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spinal Cord Injuries
+MESH:D011470	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prostatic Hyperplasia
+MESH:D009190	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myelodysplastic Syndromes
+MESH:D009181	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mycoses
+MESH:D009103	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Multiple Sclerosis
+MESH:D008581	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis
+MESH:D004938	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Esophageal Neoplasms
+MESH:D003704	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dementia
+MESH:D002546	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ischemic Attack, Transient
+MESH:D002312	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiomyopathy, Hypertrophic
+MESH:D000740	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia
+MESH:D048949	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Labor Pain
+MESH:D019966	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Substance-Related Disorders
+MESH:D019956	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stereotypic Movement Disorder
+MESH:D019955	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Conduct Disorder
+MESH:D016908	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gram-Positive Bacterial Infections
+MESH:D016905	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gram-Negative Bacterial Infections
+MESH:D016393	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, B-Cell
+MESH:D015212	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Inflammatory Bowel Diseases
+MESH:D012516	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteosarcoma
+MESH:D012509	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sarcoma
+MESH:D010259	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paranoid Disorders
+MESH:D008171	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lung Diseases
+MESH:D008133	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Long QT Syndrome
+MESH:D006816	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Huntington Disease
+MESH:D006509	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis B
+MESH:D005764	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastroesophageal Reflux
+MESH:D002653	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Child Behavior Disorders
+MESH:D001416	19	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Back Pain
+MESH:D065626	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Non-alcoholic Fatty Liver Disease
+MESH:D062787	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Drug Overdose
+MESH:D024821	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Metabolic Syndrome
+MESH:D020018	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sexual Dysfunctions, Psychological
+MESH:D019636	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurodegenerative Diseases
+MESH:D016399	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, T-Cell
+MESH:D013224	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Status Asthmaticus
+MESH:D011704	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pyelonephritis
+MESH:D011085	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polycystic Ovary Syndrome
+MESH:D008527	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Medulloblastoma
+MESH:D007951	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Myeloid
+MESH:D007752	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Obstetric Labor, Premature
+MESH:D007239	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infections
+MESH:D007008	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypokalemia
+MESH:D006974	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertension, Malignant
+MESH:D006967	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypersensitivity
+MESH:D006417	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hematuria
+MESH:D004415	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dyspepsia
+MESH:D001282	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Atrial Flutter
+MESH:D001049	18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Apnea
+MESH:D058226	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Plaque, Atherosclerotic
+MESH:D055752	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Small Cell Lung Carcinoma
+MESH:D034381	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hearing Loss
+MESH:D020244	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infarction, Middle Cerebral Artery
+MESH:D014717	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vertigo
+MESH:D011512	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Proteus Infections
+MESH:D010409	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Penile Diseases
+MESH:D010292	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paresthesia
+MESH:D007410	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intestinal Diseases
+MESH:D007174	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Disruptive, Impulse Control, and Conduct Disorders
+MESH:D006934	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypercalcemia
+MESH:D006501	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatic Encephalopathy
+MESH:D005770	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastrointestinal Neoplasms
+MESH:D004828	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsies, Partial
+MESH:D002819	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chorea
+MESH:D002386	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cataract
+MESH:D002177	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Candidiasis
+MESH:D001745	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Bladder Diseases
+MESH:D001259	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ataxia
+MESH:D000038	17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Abscess
+MESH:D020257	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ventricular Remodeling
+MESH:D019694	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis B, Chronic
+MESH:D019446	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endotoxemia
+MESH:D016773	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leishmaniasis, Cutaneous
+MESH:D013345	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Subarachnoid Hemorrhage
+MESH:D012216	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rheumatic Diseases
+MESH:D011297	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prenatal Exposure Delayed Effects
+MESH:D011141	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polyuria
+MESH:D009461	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurologic Manifestations
+MESH:D009157	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myasthenia Gravis
+MESH:D006255	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rhinitis, Allergic, Seasonal
+MESH:D006086	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Graft vs Host Disease
+MESH:D006073	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gout
+MESH:D005879	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tourette Syndrome
+MESH:D004715	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endometriosis
+MESH:D002543	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cerebral Hemorrhage
+MESH:D002286	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Ehrlich Tumor
+MESH:D002051	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Burkitt Lymphoma
+MESH:D001862	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bone Resorption
+MESH:D001161	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arteriosclerosis
+MESH:D000707	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anaphylaxis
+MESH:D000236	16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adenoma
+MESH:D062025	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Organophosphate Poisoning
+MESH:D054058	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acute Coronary Syndrome
+MESH:D017088	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	AIDS-Related Opportunistic Infections
+MESH:D013736	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Testicular Neoplasms
+MESH:D012148	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Restless Legs Syndrome
+MESH:D011008	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumococcal Infections
+MESH:D009376	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms, Hormone-Dependent
+MESH:D009293	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Opioid-Related Disorders
+MESH:D008173	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lung Diseases, Obstructive
+MESH:D007710	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Klebsiella Infections
+MESH:D006505	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis
+MESH:D005902	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glaucoma, Open-Angle
+MESH:D004832	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy, Absence
+MESH:D004412	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysmenorrhea
+MESH:D003925	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetic Angiopathies
+MESH:D003221	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Confusion
+MESH:D001859	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bone Neoplasms
+MESH:D000077195	15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Squamous Cell Carcinoma of Head and Neck
+MESH:D043183	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Irritable Bowel Syndrome
+MESH:D020520	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Infarction
+MESH:D020246	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Venous Thrombosis
+MESH:D018771	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthralgia
+MESH:D018088	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Multidrug-Resistant
+MESH:D017029	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy, Complex Partial
+MESH:D016481	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Helicobacter Infections
+MESH:D016403	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, Large B-Cell, Diffuse
+MESH:D016171	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Torsades de Pointes
+MESH:D015877	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Miosis
+MESH:D015663	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteoporosis, Postmenopausal
+MESH:D014605	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uveitis
+MESH:D014029	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tobacco Use Disorder
+MESH:D012512	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sarcoma, Ewing
+MESH:D012221	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rhinitis, Allergic, Perennial
+MESH:D012220	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rhinitis
+MESH:D011655	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Embolism
+MESH:D011225	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pre-Eclampsia
+MESH:D010195	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pancreatitis
+MESH:D009503	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neutropenia
+MESH:D009395	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephritis, Interstitial
+MESH:D009120	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscle Cramp
+MESH:D009062	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mouth Neoplasms
+MESH:D008546	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Melanoma, Experimental
+MESH:D007970	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukopenia
+MESH:D007431	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intraoperative Complications
+MESH:D006938	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperlipoproteinemia Type II
+MESH:D005756	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastritis
+MESH:D005235	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fatty Liver, Alcoholic
+MESH:D005119	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Extravasation of Diagnostic and Therapeutic Materials
+MESH:D004831	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsies, Myoclonic
+MESH:D004244	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dizziness
+MESH:D003930	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetic Retinopathy
+MESH:D003876	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis, Atopic
+MESH:D003128	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coma
+MESH:D001327	14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Autoimmune Diseases
+MESH:D033461	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperuricemia
+MESH:D029481	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchitis, Chronic
+MESH:D020329	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Essential Tremor
+MESH:D019698	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis C, Chronic
+MESH:D019584	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hot Flashes
+MESH:D017449	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis, Allergic Contact
+MESH:D017114	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Failure, Acute
+MESH:D016055	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Retention
+MESH:D014555	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urination Disorders
+MESH:D013923	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thromboembolism
+MESH:D013575	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Syncope
+MESH:D012735	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sexual Dysfunction, Physiological
+MESH:D012393	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rosacea
+MESH:D010518	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Periodontitis
+MESH:D010488	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polyarteritis Nodosa
+MESH:D010033	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Otitis Media
+MESH:D009436	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neural Tube Defects
+MESH:D007898	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leishmaniasis, Visceral
+MESH:D007889	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leiomyoma
+MESH:D007680	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Neoplasms
+MESH:D006561	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Herpes Simplex
+MESH:D004890	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Erythema
+MESH:D004696	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endocarditis
+MESH:D004646	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Emphysema
+MESH:D002561	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cerebrovascular Disorders
+MESH:D002481	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cellulitis
+MESH:D002385	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cataplexy
+MESH:D001991	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchitis
+MESH:D001170	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis, Infectious
+MESH:D000755	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Sickle Cell
+MESH:D000690	13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amyotrophic Lateral Sclerosis
+MESH:D064129	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prostatic Neoplasms, Castration-Resistant
+MESH:D058426	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neointima
+MESH:D058065	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetic Cardiomyopathies
+MESH:D055728	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Primary Myelofibrosis
+MESH:D019586	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intracranial Hypertension
+MESH:D019457	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chromosome Breakage
+MESH:D019337	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hematologic Neoplasms
+MESH:D014397	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Pulmonary
+MESH:D013971	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thyrotoxicosis
+MESH:D012912	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sneezing
+MESH:D012595	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Scleroderma, Systemic
+MESH:D012513	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sarcoma, Experimental
+MESH:D012480	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Salmonella Infections
+MESH:D012019	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Reflex Sympathetic Dystrophy
+MESH:D009759	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nystagmus, Pathologic
+MESH:D009393	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephritis
+MESH:D008583	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis, Haemophilus
+MESH:D008575	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meniere Disease
+MESH:D006980	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperthyroidism
+MESH:D006471	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastrointestinal Hemorrhage
+MESH:D006461	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemolysis
+MESH:D003881	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatomycoses
+MESH:D002544	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cerebral Infarction
+MESH:D002056	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Burns
+MESH:D001763	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blepharoptosis
+MESH:D000341	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Affective Disorders, Psychotic
+MESH:D000077192	12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adenocarcinoma of Lung
+MESH:D056784	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukoencephalopathies
+MESH:D051474	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuralgia, Postherpetic
+MESH:D048629	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Micronuclei, Chromosome-Defective
+MESH:D028361	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mitochondrial Diseases
+MESH:D023921	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Stenosis
+MESH:D020522	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, Mantle-Cell
+MESH:D015452	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+MESH:D014947	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Wounds and Injuries
+MESH:D014570	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urologic Diseases
+MESH:D014549	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Incontinence
+MESH:D014511	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uremia
+MESH:D013167	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spondylitis, Ankylosing
+MESH:D012128	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Distress Syndrome, Adult
+MESH:D012021	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Reflex, Abnormal
+MESH:D010291	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paresis
+MESH:D009401	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephrosis
+MESH:D009164	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mycobacterium Infections
+MESH:D008105	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Cirrhosis, Biliary
+MESH:D007414	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intestinal Neoplasms
+MESH:D007251	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Influenza, Human
+MESH:D007235	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infant, Premature, Diseases
+MESH:D007010	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyponatremia
+MESH:D006947	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperkalemia
+MESH:D006556	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heroin Dependence
+MESH:D006527	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatolenticular Degeneration
+MESH:D006327	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Block
+MESH:D006069	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gonorrhea
+MESH:D005911	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gliosis
+MESH:D004942	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Esophagitis, Peptic
+MESH:D004342	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Drug Hypersensitivity
+MESH:D004283	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dog Diseases
+MESH:D003711	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Demyelinating Diseases
+MESH:D003244	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Consciousness Disorders
+MESH:D002493	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Central Nervous System Diseases
+MESH:D002303	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiac Output, Low
+MESH:D002100	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cachexia
+MESH:D001201	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ascites
+MESH:D000741	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Aplastic
+MESH:D000402	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Airway Obstruction
+MESH:D000163	11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acquired Immunodeficiency Syndrome
+MESH:D053627	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Asthenozoospermia
+MESH:D018827	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Lewis Lung
+MESH:D018450	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Disease Progression
+MESH:D018268	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adrenocortical Carcinoma
+MESH:D016543	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Central Nervous System Neoplasms
+MESH:D016483	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, AIDS-Related
+MESH:D015878	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mydriasis
+MESH:D015210	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis, Gouty
+MESH:D014786	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vision Disorders
+MESH:D014594	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uterine Neoplasms
+MESH:D013920	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thrombocythemia, Essential
+MESH:D013585	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Synovitis
+MESH:D013530	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Surgical Wound Infection
+MESH:D013163	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Splenomegaly
+MESH:D011832	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Radiation Injuries
+MESH:D010612	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pharyngitis
+MESH:D009845	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Oligospermia
+MESH:D009459	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuroleptic Malignant Syndrome
+MESH:D009205	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myocarditis
+MESH:D007896	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leishmaniasis
+MESH:D007248	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infertility, Male
+MESH:D007003	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoglycemia
+MESH:D006975	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertension, Portal
+MESH:D006951	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperlipoproteinemias
+MESH:D005393	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fish Diseases
+MESH:D005356	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fibromyalgia
+MESH:D005221	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fatigue
+MESH:D005076	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Exanthema
+MESH:D004833	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy, Temporal Lobe
+MESH:D003875	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Drug Eruptions
+MESH:D003480	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cushing Syndrome
+MESH:D003329	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Vasospasm
+MESH:D003248	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Constipation
+MESH:D002283	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Bronchogenic
+MESH:D001996	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchopneumonia
+MESH:D001528	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Behcet Syndrome
+MESH:D001228	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aspergillosis
+MESH:D001171	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis, Juvenile
+MESH:D000014	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Abnormalities, Drug-Induced
+MESH:D059226	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nociceptive Pain
+MESH:D058739	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aberrant Crypt Foci
+MESH:D054537	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Atrioventricular Block
+MESH:D052456	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoalphalipoproteinemias
+MESH:D052016	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mucositis
+MESH:D047928	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Premature Birth
+MESH:D046628	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sphincter of Oddi Dysfunction
+MESH:D046110	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertension, Pregnancy-Induced
+MESH:D022124	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperammonemia
+MESH:D018500	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Insipidus, Nephrogenic
+MESH:D018352	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronavirus Infections
+MESH:D018270	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Ductal, Breast
+MESH:D016535	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchial Hyperreactivity
+MESH:D015535	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis, Psoriatic
+MESH:D014890	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Granulomatosis with Polyangiitis
+MESH:D014657	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vasculitis
+MESH:D013981	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tic Disorders
+MESH:D013614	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tachycardia, Paroxysmal
+MESH:D013118	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spinal Cord Diseases
+MESH:D013036	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spasms, Infantile
+MESH:D012859	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sjogren's Syndrome
+MESH:D012771	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Shock, Hemorrhagic
+MESH:D012769	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Shock
+MESH:D011023	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumonia, Staphylococcal
+MESH:D011020	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumonia, Pneumocystis
+MESH:D010391	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pemphigoid, Bullous
+MESH:D010198	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pancytopenia
+MESH:D009364	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasm Recurrence, Local
+MESH:D008586	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis, Pneumococcal
+MESH:D008206	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphatic Diseases
+MESH:D008181	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lupus Nephritis
+MESH:D007890	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leiomyosarcoma
+MESH:D007565	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Jaundice
+MESH:D006966	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperprolactinemia
+MESH:D004941	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Esophagitis
+MESH:D004829	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy, Generalized
+MESH:D001997	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchopulmonary Dysplasia
+MESH:D001986	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchial Spasm
+MESH:D001847	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bone Diseases
+MESH:D001342	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Autonomic Nervous System Diseases
+MESH:D000744	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Hemolytic, Autoimmune
+MESH:D000686	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amyloidosis
+MESH:D000430	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alcohol Withdrawal Delirium
+MESH:D000138	9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acidosis
+MESH:D020821	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dystonic Disorders
+MESH:D020078	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurogenic Inflammation
+MESH:D019957	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Motor Skills Disorders
+MESH:D019046	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bone Marrow Neoplasms
+MESH:D018366	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vasculitis, Leukocytoclastic, Cutaneous
+MESH:D018241	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuroectodermal Tumors, Primitive, Peripheral
+MESH:D016770	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ciliophora Infections
+MESH:D016410	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, T-Cell, Cutaneous
+MESH:D015477	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Myelomonocytic, Chronic
+MESH:D015440	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leprosy, Lepromatous
+MESH:D015299	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Discitis
+MESH:D014987	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Xerostomia
+MESH:D014927	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Wolff-Parkinson-White Syndrome
+MESH:D014277	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Trigeminal Neuralgia
+MESH:D014123	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Toxoplasmosis
+MESH:D013742	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tetanus
+MESH:D012770	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Shock, Cardiogenic
+MESH:D012206	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rhabdomyolysis
+MESH:D011928	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Raynaud Disease
+MESH:D011251	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pregnancy Complications, Infectious
+MESH:D011087	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polycythemia Vera
+MESH:D011015	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumonia, Aspiration
+MESH:D010911	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pituitary Neoplasms
+MESH:D010014	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteolysis
+MESH:D009877	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endophthalmitis
+MESH:D009396	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Wilms Tumor
+MESH:D009349	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nematode Infections
+MESH:D009182	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mycosis Fungoides
+MESH:D009133	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscular Atrophy
+MESH:D009021	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Morphine Dependence
+MESH:D008178	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lupus Erythematosus, Cutaneous
+MESH:D007952	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Plasma Cell
+MESH:D007592	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Joint Diseases
+MESH:D007247	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infertility, Female
+MESH:D007037	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypothyroidism
+MESH:D007018	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypopituitarism
+MESH:D006996	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypocalcemia
+MESH:D006970	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Disorders of Excessive Somnolence
+MESH:D006521	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis, Chronic
+MESH:D004485	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eczema
+MESH:D003882	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatomyositis
+MESH:D003872	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis
+MESH:D003294	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Seizures, Febrile
+MESH:D002524	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cerebellar Ataxia
+MESH:D002418	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cattle Diseases
+MESH:D001778	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blood Coagulation Disorders
+MESH:D001768	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blister
+MESH:D001284	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Atrophy
+MESH:D001264	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Athetosis
+MESH:D001157	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arterial Occlusive Diseases
+MESH:D000756	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Sideroblastic
+MESH:D000505	8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alopecia
+MESH:D065631	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rhinitis, Allergic
+MESH:D060050	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Angina, Stable
+MESH:D056912	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Binge-Eating Disorder
+MESH:D055623	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Keratosis, Actinic
+MESH:D054556	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Venous Thromboembolism
+MESH:D052880	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pyomyositis
+MESH:D049188	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prenatal Injuries
+MESH:D048550	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatic Insufficiency
+MESH:D045828	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Moraxellaceae Infections
+MESH:D024801	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tauopathies
+MESH:D020802	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epidural Abscess
+MESH:D020326	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Migraine without Aura
+MESH:D020262	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mercury Poisoning, Nervous System
+MESH:D020261	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arsenic Poisoning
+MESH:D017453	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis, Irritant
+MESH:D016870	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neisseriaceae Infections
+MESH:D016769	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Embolism and Thrombosis
+MESH:D016757	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Death, Sudden, Cardiac
+MESH:D016553	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Purpura, Thrombocytopenic, Idiopathic
+MESH:D016491	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peripheral Vascular Diseases
+MESH:D015835	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ocular Motility Disorders
+MESH:D015674	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mammary Neoplasms, Animal
+MESH:D015458	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, T-Cell
+MESH:D015207	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteoarthritis, Hip
+MESH:D014592	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uterine Hemorrhage
+MESH:D014526	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urethritis
+MESH:D014069	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tonsillitis
+MESH:D014005	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tinea
+MESH:D013616	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tachycardia, Sinus
+MESH:D012983	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Soft Tissue Neoplasms
+MESH:D012514	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sarcoma, Kaposi
+MESH:D011472	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prostatitis
+MESH:D011125	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adenomatous Polyposis Coli
+MESH:D011018	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumonia, Pneumococcal
+MESH:D010689	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Phlebitis
+MESH:D010493	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pericarditis
+MESH:D010392	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pemphigus
+MESH:D010182	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pancreatic Diseases
+MESH:D010148	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pain, Intractable
+MESH:D009402	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephrosis, Lipoid
+MESH:D009290	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Narcolepsy
+MESH:D009128	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscle Spasticity
+MESH:D008944	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mitral Valve Insufficiency
+MESH:D008630	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mercury Poisoning
+MESH:D008595	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Menorrhagia
+MESH:D008590	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningoencephalitis
+MESH:D007939	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia L1210
+MESH:D007918	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leprosy
+MESH:D007177	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Inappropriate ADH Syndrome
+MESH:D007006	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypogonadism
+MESH:D006978	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertension, Renovascular
+MESH:D006606	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hiccup
+MESH:D006373	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Helminthiasis
+MESH:D006330	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Defects, Congenital
+MESH:D006111	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Graves Disease
+MESH:D006042	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Goiter
+MESH:D005739	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gas Poisoning
+MESH:D005315	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fetal Diseases
+MESH:D004775	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Enuresis
+MESH:D004751	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Enteritis
+MESH:D004714	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endometrial Hyperplasia
+MESH:D004660	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Encephalitis
+MESH:D004401	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysarthria
+MESH:D003919	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Insipidus
+MESH:D003877	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis, Contact
+MESH:D003139	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Common Cold
+MESH:D003027	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cluster Headache
+MESH:D002181	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Candidiasis, Vulvovaginal
+MESH:D001982	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchial Diseases
+MESH:D001018	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aortic Diseases
+MESH:D000379	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Agoraphobia
+MESH:D000292	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pelvic Inflammatory Disease
+MESH:D000077216	7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Ovarian Epithelial
+MESH:D066253	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vascular Remodeling
+MESH:D061205	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vascular Calcification
+MESH:D053609	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lethargy
+MESH:D053158	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nocturia
+MESH:D045169	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Severe Acute Respiratory Syndrome
+MESH:D023903	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Restenosis
+MESH:D020795	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Photophobia
+MESH:D020751	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alcohol-Induced Disorders
+MESH:D020529	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Multiple Sclerosis, Relapsing-Remitting
+MESH:D020324	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amnesia, Anterograde
+MESH:D020233	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gait Disorders, Neurologic
+MESH:D019973	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alcohol-Related Disorders
+MESH:D018781	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tension-Type Headache
+MESH:D018288	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Small Cell
+MESH:D018287	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Large Cell
+MESH:D018222	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fibromatosis, Aggressive
+MESH:D017563	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lung Diseases, Interstitial
+MESH:D017486	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acneiform Eruptions
+MESH:D017380	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertrophy, Right Ventricular
+MESH:D016919	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis, Cryptococcal
+MESH:D016736	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Antiphospholipid Syndrome
+MESH:D015837	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vestibular Diseases
+MESH:D015812	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glaucoma, Angle-Closure
+MESH:D015459	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia-Lymphoma, Adult T-Cell
+MESH:D015433	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glomerulonephritis, Membranous
+MESH:D014860	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Warts
+MESH:D014820	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vitiligo
+MESH:D014399	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Spinal
+MESH:D014353	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Trypanosomiasis, African
+MESH:D014103	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Torticollis
+MESH:D014062	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tongue Neoplasms
+MESH:D014012	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tinnitus
+MESH:D014009	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Onychomycosis
+MESH:D013924	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thrombophlebitis
+MESH:D013724	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Teratoma
+MESH:D013584	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sarcoma, Synovial
+MESH:D013262	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stevens-Johnson Syndrome
+MESH:D013207	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Staphylococcal Skin Infections
+MESH:D012874	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Skin Diseases, Infectious
+MESH:D012798	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sialorrhea
+MESH:D012560	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schizophrenia, Catatonic
+MESH:D012507	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sarcoidosis
+MESH:D012162	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinal Degeneration
+MESH:D012135	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Sounds
+MESH:D012127	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Distress Syndrome, Newborn
+MESH:D012120	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiration Disorders
+MESH:D012004	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rectal Neoplasms
+MESH:D011559	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pseudotumor Cerebri
+MESH:D011317	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Priapism
+MESH:D011115	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polyneuropathies
+MESH:D010996	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pleural Effusion
+MESH:D010922	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Placenta Diseases
+MESH:D010373	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lice Infestations
+MESH:D009902	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Optic Neuritis
+MESH:D009837	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Oligodendroglioma
+MESH:D009400	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephrosclerosis
+MESH:D009373	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms, Germ Cell and Embryonal
+MESH:D008258	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Waldenstrom Macroglobulinemia
+MESH:D008101	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Abscess, Amebic
+MESH:D007964	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukocytosis
+MESH:D007897	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leishmaniasis, Mucocutaneous
+MESH:D007855	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lead Poisoning
+MESH:D007411	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intestinal Diseases, Parasitic
+MESH:D007154	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Immune System Diseases
+MESH:D006950	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperlipidemia, Familial Combined
+MESH:D006734	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Horse Diseases
+MESH:D006099	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Granuloma
+MESH:D005922	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glomerulonephritis, IGA
+MESH:D005759	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastroenteritis
+MESH:D005705	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gallbladder Diseases
+MESH:D005317	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fetal Growth Retardation
+MESH:D005198	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fanconi Syndrome
+MESH:D004184	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dirofilariasis
+MESH:D003680	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Deglutition Disorders
+MESH:D003328	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Thrombosis
+MESH:D003316	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Corneal Diseases
+MESH:D002972	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cleft Palate
+MESH:D002780	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholestasis, Intrahepatic
+MESH:D002690	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chlamydia Infections
+MESH:D002658	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Developmental Disabilities
+MESH:D002422	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Causalgia
+MESH:D001922	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Abscess
+MESH:D001471	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Barrett Esophagus
+MESH:D001437	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bacteriuria
+MESH:D001254	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Astrocytoma
+MESH:D001068	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Feeding and Eating Disorders
+MESH:D000749	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Megaloblastic
+MESH:D000743	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Hemolytic
+MESH:D000506	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alopecia Areata
+MESH:D000405	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Akinetic Mutism
+MESH:D000380	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Agranulocytosis
+MESH:D000077277	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Esophageal Squamous Cell Carcinoma
+MESH:D000075322	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heavy Metal Poisoning
+MESH:C536777	6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Systemic candidiasis
+MESH:D064726	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Triple Negative Breast Neoplasms
+MESH:D059249	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Otomycosis
+MESH:D058729	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peripheral Arterial Disease
+MESH:D058405	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Desmoplastic Small Round Cell Tumor
+MESH:D056648	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+MESH:D056006	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leprosy, Multibacillary
+MESH:D055953	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Microscopic Polyangiitis
+MESH:D054179	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Angioedemas, Hereditary
+MESH:D053608	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stupor
+MESH:D053565	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypercalciuria
+MESH:D053448	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prostatism
+MESH:D051270	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Headache Disorders, Primary
+MESH:D044882	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glucose Metabolism Disorders
+MESH:D020528	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Multiple Sclerosis, Chronic Progressive
+MESH:D020514	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypokalemic Periodic Paralysis
+MESH:D020325	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Migraine with Aura
+MESH:D020323	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tics
+MESH:D020306	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Central Nervous System
+MESH:D020300	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intracranial Hemorrhages
+MESH:D020230	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Serotonin Syndrome
+MESH:D020019	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurocysticercosis
+MESH:D019851	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thrombophilia
+MESH:D019263	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysthymic Disorder
+MESH:D019106	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Postoperative Hemorrhage
+MESH:D018589	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastroparesis
+MESH:D018316	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gliosarcoma
+MESH:D018269	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Endometrioid
+MESH:D018236	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Embryonal
+MESH:D017726	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cytomegalovirus Retinitis
+MESH:D017599	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuroectodermal Tumors
+MESH:D017544	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aortic Aneurysm, Abdominal
+MESH:D017495	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperpigmentation
+MESH:D017285	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polymyositis
+MESH:D017192	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Skin Diseases, Bacterial
+MESH:D017096	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prion Diseases
+MESH:D016868	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Serratia Infections
+MESH:D015432	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glomerulonephritis, Membranoproliferative
+MESH:D015362	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Child Nutrition Disorders
+MESH:D015267	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Churg-Strauss Syndrome
+MESH:D015209	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholangitis, Sclerosing
+MESH:D015175	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prolactinoma
+MESH:D014766	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Viremia
+MESH:D014474	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Unconsciousness
+MESH:D014388	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Lymph Node
+MESH:D014006	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tinea Capitis
+MESH:D013700	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Giant Cell Arteritis
+MESH:D013319	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Strongyle Infections, Equine
+MESH:D013281	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stomatitis, Aphthous
+MESH:D013064	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Speech Disorders
+MESH:D012811	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sigmoid Neoplasms
+MESH:D012585	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sciatica
+MESH:D012532	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Scabies
+MESH:D012279	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rickets
+MESH:D012175	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinoblastoma
+MESH:D012001	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperacusis
+MESH:D011843	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Radiculopathy
+MESH:D011833	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Radiation Injuries, Experimental
+MESH:D011657	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Eosinophilia
+MESH:D011469	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prostatic Diseases
+MESH:D011293	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Premenstrual Syndrome
+MESH:D010698	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Phobic Disorders
+MESH:D010490	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pericardial Effusion
+MESH:D010273	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Parasitic Diseases, Animal
+MESH:D010018	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteomalacia
+MESH:D009901	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Optic Nerve Diseases
+MESH:D009846	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Oliguria
+MESH:D009122	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscle Hypertonia
+MESH:D009080	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mucocutaneous Lymph Node Syndrome
+MESH:D009078	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mucocele
+MESH:D008924	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mite Infestations
+MESH:D008224	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, Follicular
+MESH:D008100	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Abscess
+MESH:D008080	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liposarcoma
+MESH:D007634	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Keratitis
+MESH:D007299	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Insect Bites and Stings
+MESH:D007011	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoparathyroidism
+MESH:D006968	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypersensitivity, Delayed
+MESH:D006962	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperparathyroidism, Secondary
+MESH:D006945	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperhidrosis
+MESH:D006939	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperemesis Gravidarum
+MESH:D006628	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hirsutism
+MESH:D006558	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Herpes Genitalis
+MESH:D006473	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Postpartum Hemorrhage
+MESH:D006356	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heartburn
+MESH:D006319	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hearing Loss, Sensorineural
+MESH:D006259	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Craniocerebral Trauma
+MESH:D005873	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Giardiasis
+MESH:D005621	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Friedreich Ataxia
+MESH:D005199	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fanconi Anemia
+MESH:D004932	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Esophageal and Gastric Varices
+MESH:D004916	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Erythromelalgia
+MESH:D004915	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Erythroblastic, Acute
+MESH:D004806	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ependymoma
+MESH:D004698	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endocarditis, Subacute Bacterial
+MESH:D004461	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eclampsia
+MESH:D003922	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Mellitus, Type 1
+MESH:D003643	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Death
+MESH:D003453	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cryptococcosis
+MESH:D003428	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cross Infection
+MESH:D003354	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Corynebacterium Infections
+MESH:D003233	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Conjunctivitis, Allergic
+MESH:D003218	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Condylomata Acuminata
+MESH:D003085	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Colic
+MESH:D003015	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Clostridium Infections
+MESH:D002869	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chromosome Aberrations
+MESH:D002547	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cerebral Palsy
+MESH:D002534	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoxia, Brain
+MESH:D002532	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intracranial Aneurysm
+MESH:D002357	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cartilage Diseases
+MESH:D002280	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Basal Cell
+MESH:D002276	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoid Tumor
+MESH:D002252	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carbon Tetrachloride Poisoning
+MESH:D002032	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bulimia
+MESH:D001987	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bronchiectasis
+MESH:D001851	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bone Diseases, Metabolic
+MESH:D001759	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blastomycosis
+MESH:D001750	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Bladder, Neurogenic
+MESH:D001651	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholestasis, Extrahepatic
+MESH:D001196	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ascariasis
+MESH:D001022	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aortic Valve Insufficiency
+MESH:D000783	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aneurysm
+MESH:D000562	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amebiasis
+MESH:D000386	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	AIDS-Related Complex
+MESH:D000257	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adenoviridae Infections
+MESH:D000208	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acute Disease
+MESH:D058387	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Candidemia
+MESH:D057772	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vascular System Injuries
+MESH:D057180	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Frontotemporal Dementia
+MESH:D056844	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Renal Colic
+MESH:D055756	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningeal Carcinomatosis
+MESH:D055009	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spondylosis
+MESH:D054908	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Extensively Drug-Resistant Tuberculosis
+MESH:D054391	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, Extranodal NK-T-Cell
+MESH:D054138	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sinus Arrest, Cardiac
+MESH:D053206	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nocturnal Enuresis
+MESH:D053099	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Azotemia
+MESH:D052018	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bulimia Nervosa
+MESH:D046152	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastrointestinal Stromal Tumors
+MESH:D045823	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ileus
+MESH:D045743	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Scleroderma, Diffuse
+MESH:D021441	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Pancreatic Ductal
+MESH:D020767	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intracranial Thrombosis
+MESH:D020422	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mononeuropathies
+MESH:D020388	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscular Dystrophy, Duchenne
+MESH:D020370	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteoarthritis, Knee
+MESH:D020270	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alcohol Withdrawal Seizures
+MESH:D020187	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	REM Sleep Behavior Disorder
+MESH:D020186	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sleep Bruxism
+MESH:D020181	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sleep Apnea, Obstructive
+MESH:D020083	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acquired Hyperostosis Syndrome
+MESH:D019967	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schizophrenia Spectrum and Other Psychotic Disorders
+MESH:D019958	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Attention Deficit and Disruptive Behavior Disorders
+MESH:D019693	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis, Autoimmune
+MESH:D019559	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Capillary Leak Syndrome
+MESH:D019547	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neck Pain
+MESH:D019465	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Craniofacial Abnormalities
+MESH:D019305	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy, Rolandic
+MESH:D019247	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	HIV Wasting Syndrome
+MESH:D018856	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cystitis, Interstitial
+MESH:D018798	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Iron-Deficiency
+MESH:D018461	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Soft Tissue Infections
+MESH:D018358	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuroendocrine Tumors
+MESH:D018328	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Melanoma, Amelanotic
+MESH:D017889	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Exfoliation Syndrome
+MESH:D017699	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pelvic Pain
+MESH:D017681	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypereosinophilic Syndrome
+MESH:D017511	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pyoderma Gangrenosum
+MESH:D017240	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mitochondrial Myopathies
+MESH:D017191	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ascaridida Infections
+MESH:D016780	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Malaria, Vivax
+MESH:D016469	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fungemia
+MESH:D015863	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Iridocyclitis
+MESH:D015821	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eye Infections, Fungal
+MESH:D015814	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ocular Hypotension
+MESH:D015620	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Histiocytic Disorders, Malignant
+MESH:D015439	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leprosy, Borderline
+MESH:D015043	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Zollinger-Ellison Syndrome
+MESH:D014946	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Wound Infection
+MESH:D014883	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Water-Electrolyte Imbalance
+MESH:D014607	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uveomeningoencephalitic Syndrome
+MESH:D014571	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urologic Neoplasms
+MESH:D014550	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Incontinence, Stress
+MESH:D014545	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Calculi
+MESH:D014402	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberous Sclerosis
+MESH:D014390	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Meningeal
+MESH:D014313	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Trismus
+MESH:D014252	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Trichostrongyloidiasis
+MESH:D013922	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thrombocytosis
+MESH:D013479	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Superior Vena Cava Syndrome
+MESH:D013471	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sunburn
+MESH:D013322	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Strongyloidiasis
+MESH:D013280	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Stomatitis
+MESH:D013086	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spermatic Cord Torsion
+MESH:D012883	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Skin Ulcer
+MESH:D012851	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sinus Thrombosis, Intracranial
+MESH:D012804	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sick Sinus Syndrome
+MESH:D012555	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schistosomiasis mansoni
+MESH:D011644	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Puerperal Disorders
+MESH:D011629	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Puberty, Precocious
+MESH:D011625	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pterygium
+MESH:D011596	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Psychomotor Disorders
+MESH:D011350	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Proctocolitis
+MESH:D011248	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pregnancy Complications
+MESH:D010842	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pica
+MESH:D010673	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pheochromocytoma
+MESH:D010505	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Familial Mediterranean Fever
+MESH:D010265	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paraproteinemias
+MESH:D010264	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paraplegia
+MESH:D010235	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paraganglioma
+MESH:D010212	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Papilloma
+MESH:D009468	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuromuscular Diseases
+MESH:D009382	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms, Unknown Primary
+MESH:D009357	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neonatal Abstinence Syndrome
+MESH:D009303	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nasopharyngeal Neoplasms
+MESH:D009220	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myositis
+MESH:D009196	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myeloproliferative Disorders
+MESH:D009175	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mycoplasma Infections
+MESH:D009165	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mycobacterium Infections, Nontuberculous
+MESH:D009140	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Musculoskeletal Diseases
+MESH:D009041	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Motion Sickness
+MESH:D008708	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Methemoglobinemia
+MESH:D008679	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Metaplasia
+MESH:D008599	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Menstruation Disturbances
+MESH:D008585	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis, Meningococcal
+MESH:D008582	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis, Aseptic
+MESH:D008577	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningeal Neoplasms
+MESH:D008471	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meconium Aspiration Syndrome
+MESH:D008271	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mycetoma
+MESH:D008232	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoproliferative Disorders
+MESH:D008231	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphopenia
+MESH:D008207	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphatic Metastasis
+MESH:D008179	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lupus Erythematosus, Discoid
+MESH:D008108	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Diseases, Alcoholic
+MESH:D007818	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Laryngeal Diseases
+MESH:D007690	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polycystic Kidney Diseases
+MESH:D007669	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Calculi
+MESH:D007417	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intestinal Polyps
+MESH:D007405	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intervertebral Disc Displacement
+MESH:D007383	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intermittent Claudication
+MESH:D007238	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infarction
+MESH:D007077	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ileal Diseases
+MESH:D006998	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypochondriasis
+MESH:D006961	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperparathyroidism
+MESH:D006953	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperlipoproteinemia Type IV
+MESH:D006941	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperesthesia
+MESH:D006929	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperaldosteronism
+MESH:D006679	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	HIV Seropositivity
+MESH:D006646	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Histiocytosis, Langerhans-Cell
+MESH:D006504	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatic Veno-Occlusive Disease
+MESH:D006463	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemolytic-Uremic Syndrome
+MESH:D006457	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemoglobinuria, Paroxysmal
+MESH:D006402	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hematologic Diseases
+MESH:D006391	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemangioma
+MESH:D006349	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Valve Diseases
+MESH:D006029	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glycosuria
+MESH:D005833	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Genital Neoplasms, Female
+MESH:D005761	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastroenteritis, Transmissible, of Swine
+MESH:D005706	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gallbladder Neoplasms
+MESH:D005483	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Flushing
+MESH:D005401	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fissure in Ano
+MESH:D005157	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Facial Pain
+MESH:D005141	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eyelid Diseases
+MESH:D005128	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eye Diseases
+MESH:D004935	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Esophageal Diseases
+MESH:D004489	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Edema, Cardiac
+MESH:D004404	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysentery, Amebic
+MESH:D004374	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ductus Arteriosus, Patent
+MESH:D004211	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Disseminated Intravascular Coagulation
+MESH:D003731	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dental Caries
+MESH:D003384	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coxsackievirus Infections
+MESH:D003251	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Constriction, Pathologic
+MESH:D003161	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Compartment Syndromes
+MESH:D003047	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coccidioidomycosis
+MESH:D002971	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cleft Lip
+MESH:D002862	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chromoblastomycosis
+MESH:D002761	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholangitis
+MESH:D002659	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Child Development Disorders, Pervasive
+MESH:D002494	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Central Nervous System Infections
+MESH:D002446	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Celiac Disease
+MESH:D002105	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cadmium Poisoning
+MESH:D001883	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Borderline Personality Disorder
+MESH:D001855	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bone Marrow Diseases
+MESH:D001791	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blood Platelet Disorders
+MESH:D001752	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blast Crisis
+MESH:D001724	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Birth Weight
+MESH:D001660	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Biliary Tract Diseases
+MESH:D001442	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bacteroides Infections
+MESH:D001250	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Asthma, Exercise-Induced
+MESH:D000857	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Olfaction Disorders
+MESH:D000789	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Angina, Unstable
+MESH:D000754	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Refractory, with Excess of Blasts
+MESH:D000471	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alkalosis
+MESH:D000068079	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Motor Disorders
+MESH:D000022	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Abortion, Spontaneous
+MESH:C537844	4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nonseminomatous germ cell tumor
+MESH:D065630	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hernias, Diaphragmatic, Congenital
+MESH:D065306	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Corneal Injuries
+MESH:D063806	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myalgia
+MESH:D060605	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyalohyphomycosis
+MESH:D060585	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fusariosis
+MESH:D058922	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Inflammatory Breast Neoplasms
+MESH:D058866	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteoporotic Fractures
+MESH:D058267	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Flea Infestations
+MESH:D057066	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Low Tension Glaucoma
+MESH:D057045	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Laryngopharyngeal Reflux
+MESH:D056627	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peritoneal Fibrosis
+MESH:D055963	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Asthma, Aspirin-Induced
+MESH:D055744	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Invasive Pulmonary Aspergillosis
+MESH:D055732	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Aspergillosis
+MESH:D054990	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Idiopathic Pulmonary Fibrosis
+MESH:D054972	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Postural Orthostatic Tachycardia Syndrome
+MESH:D054559	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperphosphatemia
+MESH:D054079	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vascular Malformations
+MESH:D054059	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Occlusion
+MESH:D054038	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Posterior Leukoencephalopathy Syndrome
+MESH:D053098	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Familial Hypophosphatemic Rickets
+MESH:D052256	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tendinopathy
+MESH:D051346	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mobility Limitation
+MESH:D050798	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	SUNCT Syndrome
+MESH:D047748	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pituitary ACTH Hypersecretion
+MESH:D042882	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gallstones
+MESH:D041781	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Jaundice, Obstructive
+MESH:D034141	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoalbuminemia
+MESH:D020961	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lewy Body Disease
+MESH:D020925	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoxia-Ischemia, Brain
+MESH:D020879	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neuromuscular Manifestations
+MESH:D020386	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Isaacs Syndrome
+MESH:D020343	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypertensive Encephalopathy
+MESH:D020335	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paraparesis
+MESH:D020226	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cavernous Sinus Thrombosis
+MESH:D020194	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Unverricht-Lundborg Syndrome
+MESH:D020191	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myoclonic Epilepsies, Progressive
+MESH:D020149	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Manganese Poisoning
+MESH:D020138	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperhomocysteinemia
+MESH:D019578	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Multiple System Atrophy
+MESH:D019190	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Iron Overload
+MESH:D018784	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Abdominal Abscess
+MESH:D018783	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Impotence, Vasculogenic
+MESH:D018746	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Systemic Inflammatory Response Syndrome
+MESH:D018497	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ventricular Dysfunction, Right
+MESH:D018442	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, B-Cell, Marginal Zone
+MESH:D018357	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Syncytial Virus Infections
+MESH:D018325	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemangioblastoma
+MESH:D018301	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms, Mesothelial
+MESH:D018281	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholangiocarcinoma
+MESH:D018213	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms, Bone Tissue
+MESH:D018212	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Giant Cell Tumor of Bone
+MESH:D017719	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetic Foot
+MESH:D017445	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Skin Diseases, Vascular
+MESH:D017119	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Porphyria Cutanea Tarda
+MESH:D017093	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Failure
+MESH:D017086	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	beta-Thalassemia
+MESH:D016883	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetic Ketoacidosis
+MESH:D016781	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Toxoplasmosis, Cerebral
+MESH:D016720	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pneumocystis Infections
+MESH:D016472	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Motor Neuron Disease
+MESH:D016471	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ovarian Hyperstimulation Syndrome
+MESH:D016411	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, T-Cell, Peripheral
+MESH:D016063	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blood Loss, Surgical
+MESH:D015882	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinal Necrosis Syndrome, Acute
+MESH:D015435	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Panniculitis, Lupus Erythematosus
+MESH:D015356	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinal Artery Occlusion
+MESH:D015173	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Supratentorial Neoplasms
+MESH:D014625	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vaginal Neoplasms
+MESH:D014623	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vaginal Diseases
+MESH:D014606	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uveitis, Anterior
+MESH:D014591	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uterine Diseases
+MESH:D014517	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ureteral Obstruction
+MESH:D014514	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ureteral Calculi
+MESH:D014396	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Pleural
+MESH:D014394	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Osteoarticular
+MESH:D014355	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chagas Disease
+MESH:D014008	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tinea Pedis
+MESH:D013984	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tick Infestations
+MESH:D013746	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tetany
+MESH:D013611	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tachycardia, Atrioventricular Nodal Reentry
+MESH:D012892	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sleep Deprivation
+MESH:D012868	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Skin Abnormalities
+MESH:D012652	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Self Mutilation
+MESH:D012628	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis, Seborrheic
+MESH:D012607	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Scotoma
+MESH:D012598	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sclerosis
+MESH:D012510	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sarcoma 180
+MESH:D012488	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Salpingitis
+MESH:D012481	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Salmonella Infections, Animal
+MESH:D012468	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Salivary Gland Neoplasms
+MESH:D012213	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rheumatic Fever
+MESH:D012173	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinitis
+MESH:D012164	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinal Diseases
+MESH:D012133	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Paralysis
+MESH:D012130	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Respiratory Hypersensitivity
+MESH:D012080	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chronic Kidney Disease-Mineral and Bone Disorder
+MESH:D012002	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rectal Diseases
+MESH:D011778	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Q Fever
+MESH:D011776	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pyuria
+MESH:D011602	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Psychophysiologic Disorders
+MESH:D011249	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pregnancy Complications, Cardiovascular
+MESH:D011128	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polyradiculopathy
+MESH:D010954	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Plasmacytoma
+MESH:D010930	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Plague
+MESH:D010438	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peptic Ulcer Hemorrhage
+MESH:D010411	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Penile Induration
+MESH:D010390	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pemphigoid, Benign Mucous Membrane
+MESH:D010307	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Parotid Neoplasms
+MESH:D010262	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paraphilic Disorders
+MESH:D010211	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Papilledema
+MESH:D010009	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteochondrodysplasias
+MESH:D009976	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Orthomyxoviridae Infections
+MESH:D009886	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ophthalmoplegia
+MESH:D009855	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Onchocerciasis
+MESH:D009668	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nose Diseases
+MESH:D009617	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nocardia Infections
+MESH:D009497	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurotic Disorders
+MESH:D009423	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nervous System Neoplasms
+MESH:D009397	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephrocalcinosis
+MESH:D009298	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nasal Polyps
+MESH:D009223	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myotonic Dystrophy
+MESH:D009216	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myopia
+MESH:D009123	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscle Hypotonia
+MESH:D009084	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mucopolysaccharidosis III
+MESH:D008947	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mixed Connective Tissue Disease
+MESH:D008661	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Metabolism, Inborn Errors
+MESH:D008659	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Metabolic Diseases
+MESH:D008589	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningococcal Infections
+MESH:D008584	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningitis, Listeria
+MESH:D008548	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Melanosis
+MESH:D008538	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meige Syndrome
+MESH:D008382	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Marfan Syndrome
+MESH:D008275	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Magnesium Deficiency
+MESH:D008172	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lung Diseases, Fungal
+MESH:D008010	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lichen Planus
+MESH:D007968	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukoencephalopathy, Progressive Multifocal
+MESH:D007953	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Radiation-Induced
+MESH:D007942	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Experimental
+MESH:D007826	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Laryngismus
+MESH:D007822	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Laryngeal Neoplasms
+MESH:D007579	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Jejunal Diseases
+MESH:D007232	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infant, Newborn, Diseases
+MESH:D007009	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypolipoproteinemias
+MESH:D006925	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hymenolepiasis
+MESH:D006849	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hydrocephalus
+MESH:D006725	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hookworm Infections
+MESH:D006660	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Histoplasmosis
+MESH:D006562	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Herpes Zoster
+MESH:D006530	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatorenal Syndrome
+MESH:D006506	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis A
+MESH:D006474	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemorrhagic Disorders
+MESH:D006406	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hematoma
+MESH:D006374	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Helminthiasis, Animal
+MESH:D006335	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Injuries
+MESH:D006317	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hearing Loss, Noise-Induced
+MESH:D006311	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hearing Disorders
+MESH:D006177	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gynecomastia
+MESH:D006130	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Growth Disorders
+MESH:D005499	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Folliculitis
+MESH:D005357	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fibrous Dysplasia of Bone
+MESH:D005354	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fibrosarcoma
+MESH:D005327	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fetal Resorption
+MESH:D005313	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fetal Death
+MESH:D005155	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Facial Nerve Diseases
+MESH:D005134	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eye Neoplasms
+MESH:D005117	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiac Complexes, Premature
+MESH:D005094	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Exophthalmos
+MESH:D004893	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Erythema Nodosum
+MESH:D004892	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Erythema Multiforme
+MESH:D004617	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Embolism
+MESH:D004605	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Elephantiasis, Filarial
+MESH:D004443	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Echinococcosis
+MESH:D004414	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dyspareunia
+MESH:D004387	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dupuytren Contracture
+MESH:D004238	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diverticulitis
+MESH:D004108	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dilatation, Pathologic
+MESH:D003873	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis, Exfoliative
+MESH:D003715	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dengue
+MESH:D003586	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cytomegalovirus Infections
+MESH:D003457	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cryptosporidiosis
+MESH:D003456	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cryptorchidism
+MESH:D003109	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Colonic Diseases, Functional
+MESH:D003108	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Colonic Diseases
+MESH:D003048	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coccidiosis
+MESH:D002921	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cicatrix
+MESH:D002817	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chordoma
+MESH:D002769	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholelithiasis
+MESH:D002310	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiomyopathy, Alcoholic
+MESH:D002180	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Candidiasis, Oral
+MESH:D002114	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Calcinosis
+MESH:D002012	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bruxism
+MESH:D002006	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brucellosis
+MESH:D001928	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Diseases, Metabolic
+MESH:D001913	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bowen's Disease
+MESH:D001766	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blindness
+MESH:D001748	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Bladder Neck Obstruction
+MESH:D001661	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Biliary Tract Neoplasms
+MESH:D001649	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bile Duct Diseases
+MESH:D001477	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bartter Syndrome
+MESH:D001265	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Athletic Injuries
+MESH:D001237	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Asphyxia
+MESH:D001037	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aphasia
+MESH:D001014	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Aortic Aneurysm
+MESH:D001005	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anus Neoplasms
+MESH:D000858	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anovulation
+MESH:D000856	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anorexia Nervosa
+MESH:D000788	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Angina Pectoris, Variant
+MESH:D000752	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Pernicious
+MESH:D000748	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anemia, Macrocytic
+MESH:D000532	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Altitude Sickness
+MESH:D000435	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alcoholic Intoxication
+MESH:D000309	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adrenal Insufficiency
+MESH:D000196	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Actinomycosis
+MESH:D000172	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acromegaly
+MESH:D000141	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acidosis, Renal Tubular
+MESH:D000071243	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Zika Virus Infection
+MESH:D000013	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Congenital Abnormalities
+MESH:C562839	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mesothelioma, Malignant
+MESH:C537095	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brachydactyly with hypertension
+MESH:C535761	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephrosis, congenital
+MESH:C535581	3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cardiomyopathy dilated with Woolly hair and keratoderma
+OMIM:188890	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	TOBACCO ADDICTION, SUSCEPTIBILITY TO
+MESH:D066088	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Infant Death
+MESH:D065666	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mesenteric Ischemia
+MESH:D065646	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Thyroid Carcinoma, Anaplastic
+MESH:D063646	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinogenesis
+MESH:D060825	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cognitive Dysfunction
+MESH:D059606	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polydipsia
+MESH:D059445	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anhedonia
+MESH:D058565	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cerebral Ventriculitis
+MESH:D056987	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vasoplegia
+MESH:D056889	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Barth Syndrome
+MESH:D056829	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hereditary Angioedema Types I and II
+MESH:D056769	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alstrom Syndrome
+MESH:D056735	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Autoimmune Lymphoproliferative Syndrome
+MESH:D056487	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chemical and Drug Induced Liver Injury, Chronic
+MESH:D055985	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Latent Tuberculosis
+MESH:D055959	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intervertebral Disc Degeneration
+MESH:D055191	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Delayed Emergence from Anesthesia
+MESH:D055154	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysphonia
+MESH:D054549	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Takotsubo Cardiomyopathy
+MESH:D054438	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative
+MESH:D054220	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Malformations of Cortical Development
+MESH:D054139	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tachycardia, Reciprocating
+MESH:D054078	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mevalonate Kinase Deficiency
+MESH:D053202	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Incontinence, Urge
+MESH:D053159	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysuria
+MESH:D053040	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nephrolithiasis
+MESH:D052177	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Diseases, Cystic
+MESH:D051436	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Renal Insufficiency, Chronic
+MESH:D051302	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paroxysmal Hemicrania
+MESH:D051299	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Post-Dural Puncture Headache
+MESH:D050500	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pancreatitis, Chronic
+MESH:D049970	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Graves Ophthalmopathy
+MESH:D049912	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Growth Hormone-Secreting Pituitary Adenoma
+MESH:D047508	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Massive Hepatic Necrosis
+MESH:D046088	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hearing Loss, Unilateral
+MESH:D044903	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Congenital Hyperinsulinism
+MESH:D043171	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chromosomal Instability
+MESH:D036981	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fasciitis, Plantar
+MESH:D034721	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mastocytosis, Systemic
+MESH:D027601	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polyomavirus Infections
+MESH:D025242	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spondylarthropathies
+MESH:D023341	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chills
+MESH:D021081	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Chronobiology Disorders
+MESH:D020964	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Embryo Loss
+MESH:D020817	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Asperger Syndrome
+MESH:D020803	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Encephalitis, Herpes Simplex
+MESH:D020790	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes Insipidus, Neurogenic
+MESH:D020757	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amaurosis Fugax
+MESH:D020754	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spinocerebellar Ataxias
+MESH:D020426	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sciatic Neuropathy
+MESH:D020345	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Enterocolitis, Necrotizing
+MESH:D020339	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Optic Nerve Glioma
+MESH:D020267	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	MPTP Poisoning
+MESH:D020236	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amnesia, Transient Global
+MESH:D020212	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carotid Artery Injuries
+MESH:D020195	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epilepsy, Reflex
+MESH:D020190	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myoclonic Epilepsy, Juvenile
+MESH:D020189	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nocturnal Myoclonus Syndrome
+MESH:D020165	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carbamoyl-Phosphate Synthase I Deficiency Disease
+MESH:D020158	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperglycinemia, Nonketotic
+MESH:D020069	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Shoulder Pain
+MESH:D019512	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pancreatitis, Alcoholic
+MESH:D019226	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Oral Ulcer
+MESH:D018880	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Atrial Premature Complexes
+MESH:D018633	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Atresia
+MESH:D018512	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Parasitemia
+MESH:D018458	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Persistent Vegetative State
+MESH:D018327	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hutchinson's Melanotic Freckle
+MESH:D018302	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neoplasms, Neuroepithelial
+MESH:D018290	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cervical Intraepithelial Neoplasia
+MESH:D018273	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinoma, Islet Cell
+MESH:D018256	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adenomatous Polyps
+MESH:D018239	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Seminoma
+MESH:D018233	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Rhabdomyosarcoma, Embryonal
+MESH:D018221	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fibromatosis, Abdominal
+MESH:D018184	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paramyxoviridae Infections
+MESH:D017880	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Limb Deformities, Congenital
+MESH:D017728	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lymphoma, Large-Cell, Anaplastic
+MESH:D017588	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperandrogenism
+MESH:D017574	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Parasystole
+MESH:D017454	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dermatitis, Photoallergic
+MESH:D017254	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemic Infiltration
+MESH:D017237	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mitochondrial Encephalomyopathies
+MESH:D017229	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Enterobiasis
+MESH:D017118	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Porphyria, Acute Intermittent
+MESH:D017001	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tooth Demineralization
+MESH:D016918	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arthritis, Reactive
+MESH:D016893	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carotid Stenosis
+MESH:D016891	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polycystic Kidney, Autosomal Dominant
+MESH:D016863	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bacillaceae Infections
+MESH:D016779	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Malaria, Cerebral
+MESH:D016706	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Still's Disease, Adult-Onset
+MESH:D016640	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diabetes, Gestational
+MESH:D016510	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Corneal Neovascularization
+MESH:D016506	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pemphigus, Benign Familial
+MESH:D016463	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sweet Syndrome
+MESH:D016459	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prosthesis-Related Infections
+MESH:D016301	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Alveolar Bone Loss
+MESH:D016066	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pleural Effusion, Malignant
+MESH:D015861	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinal Neovascularization
+MESH:D015823	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acanthamoeba Keratitis
+MESH:D015526	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	AIDS Dementia Complex
+MESH:D015508	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nasal Obstruction
+MESH:D015493	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Paraparesis, Tropical Spastic
+MESH:D015490	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	HTLV-I Infections
+MESH:D015441	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leprosy, Tuberculoid
+MESH:D015436	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Panniculitis, Peritoneal
+MESH:D015270	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Mycobacterium avium-intracellulare Infection
+MESH:D015140	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dementia, Vascular
+MESH:D014985	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Xerophthalmia
+MESH:D014808	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vitamin D Deficiency
+MESH:D014694	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ventricular Outflow Obstruction
+MESH:D014689	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Venous Insufficiency
+MESH:D014627	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vaginitis
+MESH:D014604	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uveal Neoplasms
+MESH:D014565	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urogenital Neoplasms
+MESH:D014523	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urethral Neoplasms
+MESH:D014437	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Typhus, Endemic Flea-Borne
+MESH:D014435	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Typhoid Fever
+MESH:D014398	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Renal
+MESH:D014385	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tuberculosis, Gastrointestinal
+MESH:D014352	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Trypanosomiasis
+MESH:D014247	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Trichomonas Vaginitis
+MESH:D014245	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Trichomonas Infections
+MESH:D014178	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Translocation, Genetic
+MESH:D014126	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Toxoplasmosis, Ocular
+MESH:D014120	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Toxocariasis
+MESH:D014067	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tonsillar Neoplasms
+MESH:D014010	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tinea Versicolor
+MESH:D013771	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Tetralogy of Fallot
+MESH:D013705	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Temporomandibular Joint Disorders
+MESH:D013622	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Taeniasis
+MESH:D013494	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Supranuclear Palsy, Progressive
+MESH:D013158	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Splenic Diseases
+MESH:D013122	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spinal Diseases
+MESH:D013117	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spinal Cord Compression
+MESH:D013088	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Spermatocele
+MESH:D012791	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Shy-Drager Syndrome
+MESH:D012678	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Sensation Disorders
+MESH:D012594	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Scleroderma, Localized
+MESH:D012569	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schizotypal Personality Disorder
+MESH:D012562	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schizophrenia, Disorganized
+MESH:D012561	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schizophrenia, Childhood
+MESH:D012554	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schistosomiasis japonica
+MESH:D012552	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Schistosomiasis
+MESH:D012170	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retinal Vein Occlusion
+MESH:D012078	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Renal Artery Obstruction
+MESH:D012010	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Red-Cell Aplasia, Pure
+MESH:D011671	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulpitis
+MESH:D011660	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Heart Disease
+MESH:D011656	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pulmonary Emphysema
+MESH:D011645	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Puerperal Infection
+MESH:D011273	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pregnancy, Prolonged
+MESH:D011226	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pre-Excitation Syndromes
+MESH:D011123	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polyploidy
+MESH:D011086	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polycythemia
+MESH:D010997	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pleural Neoplasms
+MESH:D010939	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Plant Poisoning
+MESH:D010916	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pityriasis Rubra Pilaris
+MESH:D010859	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pigmentation Disorders
+MESH:D010854	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Piedra
+MESH:D010547	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Persistent Fetal Circulation Syndrome
+MESH:D010439	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Peptic Ulcer Perforation
+MESH:D010048	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ovarian Cysts
+MESH:D010031	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Otitis
+MESH:D010026	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteosclerosis
+MESH:D010020	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteonecrosis
+MESH:D010001	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Osteitis Deformans
+MESH:D009839	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Oligomenorrhea
+MESH:D009442	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neurilemmoma
+MESH:D009421	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nervous System Malformations
+MESH:D009408	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nerve Compression Syndromes
+MESH:D009230	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myxedema
+MESH:D009224	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myotonia Congenita
+MESH:D009222	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myotonia
+MESH:D009209	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Myofascial Pain Syndromes
+MESH:D009137	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscular Dystrophy, Animal
+MESH:D009134	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Muscular Atrophy, Spinal
+MESH:D009072	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Moyamoya Disease
+MESH:D008796	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Metrorrhagia
+MESH:D008607	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Intellectual Disability
+MESH:D008579	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Meningioma
+MESH:D008303	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Malignant Carcinoid Syndrome
+MESH:D008193	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lyme Disease
+MESH:D008118	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Loiasis
+MESH:D008104	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Liver Cirrhosis, Alcoholic
+MESH:D007972	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukoplakia, Oral
+MESH:D007960	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukocyte Disorders
+MESH:D007948	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Monocytic, Acute
+MESH:D007943	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukemia, Hairy Cell
+MESH:D007775	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Lactation Disorders
+MESH:D007744	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Obstetric Labor Complications
+MESH:D007706	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Menkes Kinky Hair Syndrome
+MESH:D007681	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Papillary Necrosis
+MESH:D007673	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Kidney Cortex Necrosis
+MESH:D007644	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Darier Disease
+MESH:D007169	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Impetigo
+MESH:D007105	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Immune Complex Diseases
+MESH:D007057	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Ichthyosis
+MESH:D007019	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoproteinemia
+MESH:D007012	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypopharyngeal Neoplasms
+MESH:D007000	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypodermyiasis
+MESH:D006986	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypervitaminosis A
+MESH:D006969	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypersensitivity, Immediate
+MESH:D006955	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypernatremia
+MESH:D006954	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperlipoproteinemia Type V
+MESH:D006932	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hyperbilirubinemia
+MESH:D006869	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hydronephrosis
+MESH:D006848	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Testicular Hydrocele
+MESH:D006831	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Polyhydramnios
+MESH:D006685	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hoarseness
+MESH:D006566	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Herpesviridae Infections
+MESH:D006551	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hernia, Hiatal
+MESH:D006548	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hernia, Diaphragmatic
+MESH:D006520	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis, Animal
+MESH:D006519	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hepatitis, Alcoholic
+MESH:D006429	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemiplegia
+MESH:D006394	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemangiosarcoma
+MESH:D006390	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hemangioendothelioma
+MESH:D006342	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Heart Rupture, Post-Infarction
+MESH:D006229	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hand Dermatoses
+MESH:D006083	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Graft Occlusion, Vascular
+MESH:D006059	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gonadal Dysgenesis
+MESH:D006044	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Goiter, Nodular
+MESH:D005929	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Glossitis, Benign Migratory
+MESH:D005891	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gingivitis
+MESH:D005832	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Genital Diseases, Male
+MESH:D005776	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gaucher Disease
+MESH:D005757	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastritis, Atrophic
+MESH:D005687	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Galactorrhea
+MESH:D005596	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fractures, Closed
+MESH:D005534	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Foot Diseases
+MESH:D005533	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Foot Dermatoses
+MESH:D005402	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Fistula
+MESH:D005368	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Filariasis
+MESH:D005148	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Facial Dermatoses
+MESH:D005131	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Eye Injuries
+MESH:D004769	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Enterovirus Infections
+MESH:D004761	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Enterocolitis, Pseudomembranous
+MESH:D004756	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Enterobacteriaceae Infections
+MESH:D004749	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Entamoebiasis
+MESH:D004716	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Endometritis
+MESH:D004684	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Leukoencephalitis, Acute Hemorrhagic
+MESH:D004678	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Encephalomalacia
+MESH:D004444	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Echinococcosis, Hepatic
+MESH:D004408	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysgeusia
+MESH:D004407	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysgerminoma
+MESH:D004405	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Dysentery, Bacillary
+MESH:D004379	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Duodenal Neoplasms
+MESH:D004239	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diverticulitis, Colonic
+MESH:D004172	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Diplopia
+MESH:D003969	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Vipoma
+MESH:D003665	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Decompression Sickness
+MESH:D003645	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Death, Sudden
+MESH:D003557	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Phyllodes Tumor
+MESH:D003555	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cystinuria
+MESH:D003551	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cysticercosis
+MESH:D003389	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cranial Nerve Diseases
+MESH:D003323	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Coronary Aneurysm
+MESH:D003240	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Connective Tissue Diseases
+MESH:D002764	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cholecystitis
+MESH:D002590	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cestode Infections
+MESH:D002575	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Uterine Cervicitis
+MESH:D002528	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Cerebellar Neoplasms
+MESH:D002340	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carotid Artery Diseases
+MESH:D002296	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Carcinosarcoma
+MESH:D002288	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adenocarcinoma, Mucinous
+MESH:D002178	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Candidiasis, Chronic Mucocutaneous
+MESH:D002169	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Campylobacter Infections
+MESH:D001925	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Damage, Chronic
+MESH:D001885	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bordetella Infections
+MESH:D001850	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Bone Diseases, Infectious
+MESH:D001764	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Blepharospasm
+MESH:D001744	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Urinary Bladder Calculi
+MESH:D001247	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Asthenia
+MESH:D001167	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arteritis
+MESH:D001146	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Arrhythmia, Sinus
+MESH:D000881	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Anthrax
+MESH:D000307	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adrenal Gland Diseases
+MESH:D000224	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Addison Disease
+MESH:D000219	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Adams-Stokes Syndrome
+MESH:D000169	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acrodermatitis
+MESH:D000151	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acinetobacter Infections
+MESH:D000140	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acidosis, Lactic
+MESH:D000077274	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Nasopharyngeal Carcinoma
+MESH:D000075222	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Essential Hypertension
+MESH:D000070642	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Brain Injuries, Traumatic
+MESH:D000015	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Abnormalities, Multiple
+MESH:D000008	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Abdominal Neoplasms
+MESH:C563515	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Neutrophil Chemotactic Response, Abnormal
+MESH:C562707	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	ACTH Deficiency, Isolated
+MESH:C562463	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Pancreatic Carcinoma
+MESH:C538370	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Retroperitoneal liposarcoma
+MESH:C538250	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amyopathic dermatomyositis
+MESH:C538173	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Acquired angioedema
+MESH:C537156	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypoparathyroidism familial isolated
+MESH:C537153	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypomagnesemia primary
+MESH:C537152	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Hypomagnesemia 2, renal
+MESH:C536961	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Familial Testotoxicosis
+MESH:C536421	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Prinzmetal's variant angina
+MESH:C536312	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Juvenile pauciarticular chronic arthritis
+MESH:C535944	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Desmoid disease, hereditary
+MESH:C535650	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Gastro-enteropancreatic neuroendocrine tumor
+MESH:C535500	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Epileptic encephalopathy, Lennox-Gastaut type
+MESH:C531617	2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Amyotrophic lateral sclerosis 1
